@@ -8,3 +8,6 @@
 .yellow {
     background-color: yellow;
 }
+.expand{
+    height: fit-content;
+}

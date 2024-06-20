@@ -1,0 +1,802 @@
+.root{position: absolute;width: 100vw;height: 100vh;left: 0;top: 0;}
+
+.horizontal-1-percent{
+	width:1%;
+	float:left
+}
+.horizontal-2-percent{
+	width:2%;
+	float:left
+}
+.horizontal-3-percent{
+	width:3%;
+	float:left
+}
+.horizontal-4-percent{
+	width:4%;
+	float:left
+}
+.horizontal-5-percent{
+	width:5%;
+	float:left
+}
+.horizontal-6-percent{
+	width:6%;
+	float:left
+}
+.horizontal-7-percent{
+	width:7%;
+	float:left
+}
+.horizontal-8-percent{
+	width:8%;
+	float:left
+}
+.horizontal-9-percent{
+	width:9%;
+	float:left
+}
+.horizontal-10-percent{
+	width:10%;
+	float:left
+}
+.horizontal-11-percent{
+	width:11%;
+	float:left
+}
+.horizontal-12-percent{
+	width:12%;
+	float:left
+}
+.horizontal-13-percent{
+	width:13%;
+	float:left
+}
+.horizontal-14-percent{
+	width:14%;
+	float:left
+}
+.horizontal-15-percent{
+	width:15%;
+	float:left
+}
+.horizontal-16-percent{
+	width:16%;
+	float:left
+}
+.horizontal-17-percent{
+	width:17%;
+	float:left
+}
+.horizontal-18-percent{
+	width:18%;
+	float:left
+}
+.horizontal-19-percent{
+	width:19%;
+	float:left
+}
+.horizontal-20-percent{
+	width:20%;
+	float:left
+}
+.horizontal-21-percent{
+	width:21%;
+	float:left
+}
+.horizontal-22-percent{
+	width:22%;
+	float:left
+}
+.horizontal-23-percent{
+	width:23%;
+	float:left
+}
+.horizontal-24-percent{
+	width:24%;
+	float:left
+}
+.horizontal-25-percent{
+	width:25%;
+	float:left
+}
+.horizontal-26-percent{
+	width:26%;
+	float:left
+}
+.horizontal-27-percent{
+	width:27%;
+	float:left
+}
+.horizontal-28-percent{
+	width:28%;
+	float:left
+}
+.horizontal-29-percent{
+	width:29%;
+	float:left
+}
+.horizontal-30-percent{
+	width:30%;
+	float:left
+}
+.horizontal-31-percent{
+	width:31%;
+	float:left
+}
+.horizontal-32-percent{
+	width:32%;
+	float:left
+}
+.horizontal-33-percent{
+	width:33%;
+	float:left
+}
+.horizontal-34-percent{
+	width:34%;
+	float:left
+}
+.horizontal-35-percent{
+	width:35%;
+	float:left
+}
+.horizontal-36-percent{
+	width:36%;
+	float:left
+}
+.horizontal-37-percent{
+	width:37%;
+	float:left
+}
+.horizontal-38-percent{
+	width:38%;
+	float:left
+}
+.horizontal-39-percent{
+	width:39%;
+	float:left
+}
+.horizontal-40-percent{
+	width:40%;
+	float:left
+}
+.horizontal-41-percent{
+	width:41%;
+	float:left
+}
+.horizontal-42-percent{
+	width:42%;
+	float:left
+}
+.horizontal-43-percent{
+	width:43%;
+	float:left
+}
+.horizontal-44-percent{
+	width:44%;
+	float:left
+}
+.horizontal-45-percent{
+	width:45%;
+	float:left
+}
+.horizontal-46-percent{
+	width:46%;
+	float:left
+}
+.horizontal-47-percent{
+	width:47%;
+	float:left
+}
+.horizontal-48-percent{
+	width:48%;
+	float:left
+}
+.horizontal-49-percent{
+	width:49%;
+	float:left
+}
+.horizontal-50-percent{
+	width:50%;
+	float:left
+}
+.horizontal-51-percent{
+	width:51%;
+	float:left
+}
+.horizontal-52-percent{
+	width:52%;
+	float:left
+}
+.horizontal-53-percent{
+	width:53%;
+	float:left
+}
+.horizontal-54-percent{
+	width:54%;
+	float:left
+}
+.horizontal-55-percent{
+	width:55%;
+	float:left
+}
+.horizontal-56-percent{
+	width:56%;
+	float:left
+}
+.horizontal-57-percent{
+	width:57%;
+	float:left
+}
+.horizontal-58-percent{
+	width:58%;
+	float:left
+}
+.horizontal-59-percent{
+	width:59%;
+	float:left
+}
+.horizontal-60-percent{
+	width:60%;
+	float:left
+}
+.horizontal-61-percent{
+	width:61%;
+	float:left
+}
+.horizontal-62-percent{
+	width:62%;
+	float:left
+}
+.horizontal-63-percent{
+	width:63%;
+	float:left
+}
+.horizontal-64-percent{
+	width:64%;
+	float:left
+}
+.horizontal-65-percent{
+	width:65%;
+	float:left
+}
+.horizontal-66-percent{
+	width:66%;
+	float:left
+}
+.horizontal-67-percent{
+	width:67%;
+	float:left
+}
+.horizontal-68-percent{
+	width:68%;
+	float:left
+}
+.horizontal-69-percent{
+	width:69%;
+	float:left
+}
+.horizontal-70-percent{
+	width:70%;
+	float:left
+}
+.horizontal-71-percent{
+	width:71%;
+	float:left
+}
+.horizontal-72-percent{
+	width:72%;
+	float:left
+}
+.horizontal-73-percent{
+	width:73%;
+	float:left
+}
+.horizontal-74-percent{
+	width:74%;
+	float:left
+}
+.horizontal-75-percent{
+	width:75%;
+	float:left
+}
+.horizontal-76-percent{
+	width:76%;
+	float:left
+}
+.horizontal-77-percent{
+	width:77%;
+	float:left
+}
+.horizontal-78-percent{
+	width:78%;
+	float:left
+}
+.horizontal-79-percent{
+	width:79%;
+	float:left
+}
+.horizontal-80-percent{
+	width:80%;
+	float:left
+}
+.horizontal-81-percent{
+	width:81%;
+	float:left
+}
+.horizontal-82-percent{
+	width:82%;
+	float:left
+}
+.horizontal-83-percent{
+	width:83%;
+	float:left
+}
+.horizontal-84-percent{
+	width:84%;
+	float:left
+}
+.horizontal-85-percent{
+	width:85%;
+	float:left
+}
+.horizontal-86-percent{
+	width:86%;
+	float:left
+}
+.horizontal-87-percent{
+	width:87%;
+	float:left
+}
+.horizontal-88-percent{
+	width:88%;
+	float:left
+}
+.horizontal-89-percent{
+	width:89%;
+	float:left
+}
+.horizontal-90-percent{
+	width:90%;
+	float:left
+}
+.horizontal-91-percent{
+	width:91%;
+	float:left
+}
+.horizontal-92-percent{
+	width:92%;
+	float:left
+}
+.horizontal-93-percent{
+	width:93%;
+	float:left
+}
+.horizontal-94-percent{
+	width:94%;
+	float:left
+}
+.horizontal-95-percent{
+	width:95%;
+	float:left
+}
+.horizontal-96-percent{
+	width:96%;
+	float:left
+}
+.horizontal-97-percent{
+	width:97%;
+	float:left
+}
+.horizontal-98-percent{
+	width:98%;
+	float:left
+}
+.horizontal-99-percent{
+	width:99%;
+	float:left
+}
+.horizontal-100-percent{
+	width:100%;
+	float:left
+}
+.vertical-1-percent{
+	height:1%;
+	float:left
+}
+.vertical-2-percent{
+	height:2%;
+	float:left
+}
+.vertical-3-percent{
+	height:3%;
+	float:left
+}
+.vertical-4-percent{
+	height:4%;
+	float:left
+}
+.vertical-5-percent{
+	height:5%;
+	float:left
+}
+.vertical-6-percent{
+	height:6%;
+	float:left
+}
+.vertical-7-percent{
+	height:7%;
+	float:left
+}
+.vertical-8-percent{
+	height:8%;
+	float:left
+}
+.vertical-9-percent{
+	height:9%;
+	float:left
+}
+.vertical-10-percent{
+	height:10%;
+	float:left
+}
+.vertical-11-percent{
+	height:11%;
+	float:left
+}
+.vertical-12-percent{
+	height:12%;
+	float:left
+}
+.vertical-13-percent{
+	height:13%;
+	float:left
+}
+.vertical-14-percent{
+	height:14%;
+	float:left
+}
+.vertical-15-percent{
+	height:15%;
+	float:left
+}
+.vertical-16-percent{
+	height:16%;
+	float:left
+}
+.vertical-17-percent{
+	height:17%;
+	float:left
+}
+.vertical-18-percent{
+	height:18%;
+	float:left
+}
+.vertical-19-percent{
+	height:19%;
+	float:left
+}
+.vertical-20-percent{
+	height:20%;
+	float:left
+}
+.vertical-21-percent{
+	height:21%;
+	float:left
+}
+.vertical-22-percent{
+	height:22%;
+	float:left
+}
+.vertical-23-percent{
+	height:23%;
+	float:left
+}
+.vertical-24-percent{
+	height:24%;
+	float:left
+}
+.vertical-25-percent{
+	height:25%;
+	float:left
+}
+.vertical-26-percent{
+	height:26%;
+	float:left
+}
+.vertical-27-percent{
+	height:27%;
+	float:left
+}
+.vertical-28-percent{
+	height:28%;
+	float:left
+}
+.vertical-29-percent{
+	height:29%;
+	float:left
+}
+.vertical-30-percent{
+	height:30%;
+	float:left
+}
+.vertical-31-percent{
+	height:31%;
+	float:left
+}
+.vertical-32-percent{
+	height:32%;
+	float:left
+}
+.vertical-33-percent{
+	height:33%;
+	float:left
+}
+.vertical-34-percent{
+	height:34%;
+	float:left
+}
+.vertical-35-percent{
+	height:35%;
+	float:left
+}
+.vertical-36-percent{
+	height:36%;
+	float:left
+}
+.vertical-37-percent{
+	height:37%;
+	float:left
+}
+.vertical-38-percent{
+	height:38%;
+	float:left
+}
+.vertical-39-percent{
+	height:39%;
+	float:left
+}
+.vertical-40-percent{
+	height:40%;
+	float:left
+}
+.vertical-41-percent{
+	height:41%;
+	float:left
+}
+.vertical-42-percent{
+	height:42%;
+	float:left
+}
+.vertical-43-percent{
+	height:43%;
+	float:left
+}
+.vertical-44-percent{
+	height:44%;
+	float:left
+}
+.vertical-45-percent{
+	height:45%;
+	float:left
+}
+.vertical-46-percent{
+	height:46%;
+	float:left
+}
+.vertical-47-percent{
+	height:47%;
+	float:left
+}
+.vertical-48-percent{
+	height:48%;
+	float:left
+}
+.vertical-49-percent{
+	height:49%;
+	float:left
+}
+.vertical-50-percent{
+	height:50%;
+	float:left
+}
+.vertical-51-percent{
+	height:51%;
+	float:left
+}
+.vertical-52-percent{
+	height:52%;
+	float:left
+}
+.vertical-53-percent{
+	height:53%;
+	float:left
+}
+.vertical-54-percent{
+	height:54%;
+	float:left
+}
+.vertical-55-percent{
+	height:55%;
+	float:left
+}
+.vertical-56-percent{
+	height:56%;
+	float:left
+}
+.vertical-57-percent{
+	height:57%;
+	float:left
+}
+.vertical-58-percent{
+	height:58%;
+	float:left
+}
+.vertical-59-percent{
+	height:59%;
+	float:left
+}
+.vertical-60-percent{
+	height:60%;
+	float:left
+}
+.vertical-61-percent{
+	height:61%;
+	float:left
+}
+.vertical-62-percent{
+	height:62%;
+	float:left
+}
+.vertical-63-percent{
+	height:63%;
+	float:left
+}
+.vertical-64-percent{
+	height:64%;
+	float:left
+}
+.vertical-65-percent{
+	height:65%;
+	float:left
+}
+.vertical-66-percent{
+	height:66%;
+	float:left
+}
+.vertical-67-percent{
+	height:67%;
+	float:left
+}
+.vertical-68-percent{
+	height:68%;
+	float:left
+}
+.vertical-69-percent{
+	height:69%;
+	float:left
+}
+.vertical-70-percent{
+	height:70%;
+	float:left
+}
+.vertical-71-percent{
+	height:71%;
+	float:left
+}
+.vertical-72-percent{
+	height:72%;
+	float:left
+}
+.vertical-73-percent{
+	height:73%;
+	float:left
+}
+.vertical-74-percent{
+	height:74%;
+	float:left
+}
+.vertical-75-percent{
+	height:75%;
+	float:left
+}
+.vertical-76-percent{
+	height:76%;
+	float:left
+}
+.vertical-77-percent{
+	height:77%;
+	float:left
+}
+.vertical-78-percent{
+	height:78%;
+	float:left
+}
+.vertical-79-percent{
+	height:79%;
+	float:left
+}
+.vertical-80-percent{
+	height:80%;
+	float:left
+}
+.vertical-81-percent{
+	height:81%;
+	float:left
+}
+.vertical-82-percent{
+	height:82%;
+	float:left
+}
+.vertical-83-percent{
+	height:83%;
+	float:left
+}
+.vertical-84-percent{
+	height:84%;
+	float:left
+}
+.vertical-85-percent{
+	height:85%;
+	float:left
+}
+.vertical-86-percent{
+	height:86%;
+	float:left
+}
+.vertical-87-percent{
+	height:87%;
+	float:left
+}
+.vertical-88-percent{
+	height:88%;
+	float:left
+}
+.vertical-89-percent{
+	height:89%;
+	float:left
+}
+.vertical-90-percent{
+	height:90%;
+	float:left
+}
+.vertical-91-percent{
+	height:91%;
+	float:left
+}
+.vertical-92-percent{
+	height:92%;
+	float:left
+}
+.vertical-93-percent{
+	height:93%;
+	float:left
+}
+.vertical-94-percent{
+	height:94%;
+	float:left
+}
+.vertical-95-percent{
+	height:95%;
+	float:left
+}
+.vertical-96-percent{
+	height:96%;
+	float:left
+}
+.vertical-97-percent{
+	height:97%;
+	float:left
+}
+.vertical-98-percent{
+	height:98%;
+	float:left
+}
+.vertical-99-percent{
+	height:99%;
+	float:left
+}
+.vertical-100-percent{
+	height:100%;
+	float:left
+}

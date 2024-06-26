@@ -14,5 +14,6 @@ local function main()
     local final =text..Line_starter..Create_all_measures()
     local release_path = dtw.concat_path("releases",release..".css")
     dtw.write_file(release_path,final)
+    Create_examples(release_path)
 end
 main()

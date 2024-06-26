@@ -14,6 +14,8 @@ void add_callbacks(LuaCEmbed *main_obj){
     lua.add_callback(main_obj,"load_file",lua_load_file_text);
     lua.add_callback(main_obj,"print",custom_print);
     lua.add_callback(main_obj,"input",get_str);
+    lua.add_callback(main_obj,"replace",lua_replace_strings);
+
 }
 
 

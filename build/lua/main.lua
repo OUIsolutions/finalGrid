@@ -15,5 +15,6 @@ local function main()
     local release_path = dtw.concat_path("releases",release..".css")
     dtw.write_file(release_path,final)
     Create_examples(release_path)
+    GenerateReadme()
 end
 main()

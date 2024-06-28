@@ -44,6 +44,6 @@ ssss
 </body>
 </html>
 ```
-[link to example](/https://ouisolutions.github.io/finalGrid/teste.html)bbb
+[link to example](https://ouisolutions.github.io/finalGrid/examples/teste.html)bbb
 
 bb

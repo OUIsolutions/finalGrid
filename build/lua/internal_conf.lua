@@ -1,7 +1,7 @@
 RELEASE = "0.002"
 IDENT = true
 
-VALID_MEASURES = { "%","vh","vw"}
+VALID_MEASURES = { "%","vh","vw","rem"}
 MEDIAS = {
     {text="if-portrait",content="(orientation: portrait)"},
     {text="if-landscape",content="(orientation: landscape)"},

@@ -33,7 +33,6 @@ local function create_element(
     text = text..media
     text = text.."{"..Line_separator
     text = text..Line_starter..for_measure_name..":"..num..measure..";"..Line_separator
-    text = text..Line_starter.."max-width: 100%;"..Line_separator
     text = text..Line_starter.."float:left;"..Line_separator
     text = text.."}"
     return text

@@ -445,4 +445,10 @@ otherwise the code will not work
 
 </body>
 </html>
-``
+```
+### Responsible 
+
+You can easily make a div responsible by the use of the **if-landscape** or **if-portrait** 
+keywords 
+
+[link to example](https://ouisolutions.github.io/finalGrid/examples/responsible.html)

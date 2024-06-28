@@ -30,7 +30,7 @@ local function create_element(
 )
     local text = "."..SET_NAME..LIB_SEPARATOR..num..LIB_SEPARATOR..generate_text_convension(measure)
     text = text..LIB_SEPARATOR..FOR_NAME..LIB_SEPARATOR..for_measure_name
-    text = text..LIB_SEPARATOR..media
+    text = text..media
     text = text.."{"..Line_separator
     text = text..Line_starter..for_measure_name..":"..num..measure..";"..Line_separator
     text = text..Line_starter.."float:left"..Line_separator
@@ -75,7 +75,7 @@ function Create_css()
     for i=1,media_size do
     	local current_media = MEDIAS[i]
     	text = text.."@media "..current_media.content.."{"..Line_separator
-    	text = text..create_elements_measures(current_media.text)
+    	text = text..create_elements_measures(LIB_SEPARATOR..current_media.text)
     	text = text..Line_separator.."}"..Line_separator
     end
     return text

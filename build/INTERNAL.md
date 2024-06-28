@@ -42,3 +42,21 @@ we can simulate grid system easily
 
 #codeof:grid_simulation.html
 
+###  Expand
+you can easily make a div expand horizontally or vertically, just by omitting the width or 
+height attribute of a div NOTE THAT ITS CHILD'S MUST BE WITh view height or view width attributes
+otherwise the code will not work
+
+### Horizontal Expand
+
+#ref:horizontal_expand.html
+
+#codeof:horizontal_expand.html
+
+
+### Vertical Expand
+
+#ref:vertical_expand.html
+
+#codeof:vertical_expand.html
+

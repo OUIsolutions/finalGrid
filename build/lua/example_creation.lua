@@ -9,6 +9,9 @@ function Create_examples(lib_path)
 		local current_content = dtw.load_file(current_path)
 		local lib_name = dtw.newPath(lib_path).get_name()
 		local formatted_lib_path = dtw.concat_path("../releases",lib_name)
+		if indexof(current_content,LIB_SHORTCUT) == -1 then
+			exit("lib index not found")
+		end
 		local internal_content = replace(current_content,LIB_SHORTCUT,formatted_lib_path)
 		local internal_path = dtw.concat_path(INTERNAL_EXAMPLES,name)
 		dtw.write_file(internal_path,internal_content)

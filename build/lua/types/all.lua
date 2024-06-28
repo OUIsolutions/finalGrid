@@ -26,3 +26,6 @@ strlen = strlen
 
 ---@type fun (str:string)
 exit = exit
+
+---@type fun (str:string,target:string):number
+indexof = indexof

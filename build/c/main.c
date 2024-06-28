@@ -19,6 +19,7 @@ void add_callbacks(LuaCEmbed *main_obj){
     lua.add_callback(main_obj,"substr",lua_sub_str);
     lua.add_callback(main_obj,"strlen",lua_get_string_size);
     lua.add_callback(main_obj,"trim",lua_trim_string);
+    lua.add_callback(main_obj,"indexof",lua_index_of);
 
 }
 

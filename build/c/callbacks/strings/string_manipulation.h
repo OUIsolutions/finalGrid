@@ -8,3 +8,5 @@ LuaCEmbedResponse * lua_sub_str(LuaCEmbed *args);
 
 LuaCEmbedResponse * lua_trim_string(LuaCEmbed *args);
 
+LuaCEmbedResponse * lua_index_of(LuaCEmbed *args);
+

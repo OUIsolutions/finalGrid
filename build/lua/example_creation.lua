@@ -13,7 +13,7 @@ function Create_examples(lib_path)
 		local internal_path = dtw.concat_path(INTERNAL_EXAMPLES,name)
 		dtw.write_file(internal_path,internal_content)
 
-        local formatted_link = "https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/"..lib_name
+        local formatted_link = REPO_LINK.."@"..BRNCH.."/releases/"..lib_name
 		local external_content = replace(current_content,LIB_SHORTCUT,formatted_link)
         local external_path = dtw.concat_path(EXTERNAL_EXAMPLES,name)
         dtw.write_file(external_path,external_content)

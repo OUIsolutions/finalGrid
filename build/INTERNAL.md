@@ -34,4 +34,11 @@ to vertically centralize a div, you can make the same process but from vertical
 #codeof:vertical_centralization.html
 
 
-aaa
+### Grid Simulation
+Since all elements go from left to right then from top to button then from left to right
+we can simulate grid system easily 
+
+#ref:grid_simulation.html
+
+#codeof:grid_simulation.html
+

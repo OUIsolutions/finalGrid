@@ -70,6 +70,11 @@ local function  format_references(readme_content)
 
         if inside_reference_of and current_char == '\n' then
         	local formatedreference_of = trim(curente_reference_of)
+        	local path = dtw.concat_path(EXTERNAL_EXAMPLES,formatedreference_of)
+            if dtw.isfile(path) == false then
+            	exit("reference not founded for"..path)
+            end
+
         	local link = dtw.concat_path(WEB_SITE,EXTERNAL_EXAMPLES)
         	link = dtw.concat_path(link,formatedreference_of)
         	local readme_link = "["..LINK_TO_EXAMPLE_TEXT.."]("..link..")"

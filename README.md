@@ -34,9 +34,7 @@ empty div between divs
         .yellow {
             background-color: yellow;
         }
-        .expand{
-            height: fit-content;
-        }
+
     </style>
 </head>
 <body>
@@ -87,9 +85,7 @@ then set 2 empty divs in the middle of it, with the half percent of the rest of 
         .yellow {
             background-color: yellow;
         }
-        .expand{
-            height: fit-content;
-        }
+
     </style>
 </head>
 <body>
@@ -138,9 +134,55 @@ to vertically centralize a div, you can make the same process but from vertical
         .yellow {
             background-color: yellow;
         }
-        .expand{
-            height: fit-content;
+
+    </style>
+</head>
+<body>
+
+<div class="finalGridRoot">
+
+    <div class="set-30-percent-for-width set-30-percent-for-height red">
+        <div class="set-100-percent-for-width set-33-percent-for-height"></div>
+        <div class="set-100-percent-for-width set-33-percent-for-height blue"></div>
+        <div class="set-100-percent-for-width set-33-percent-for-height"></div>
+    </div>
+</div>
+
+
+
+</body>
+</html>
+```
+
+### Grid Simulation
+Since all elements go from left to right then from top to button then from left to right
+we can simulate grid system easily 
+
+[link to example](https://ouisolutions.github.io/finalGrid/examples/grid_simulation.html)
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.001.css">
+
+    <title>Document</title>
+    <style>
+
+        .red{
+            background-color: red;
         }
+        .blue{
+            background-color: blue;
+        }
+        .yellow {
+            background-color: yellow;
+        }
+
     </style>
 </head>
 <body>
@@ -148,10 +190,11 @@ to vertically centralize a div, you can make the same process but from vertical
 
 <div class="finalGridRoot">
 
-    <div class="set-30-percent-for-height set-30-percent-for-height red">
-        <div class="set-100-percent-for-width set-33-percent-for-height"></div>
-        <div class="set-100-percent-for-width set-33-percent-for-height blue"></div>
-        <div class="set-100-percent-for-width set-33-percent-for-height"></div>
+    <div class="set-50-view-height-for-width set-50-view-height-for-height red">
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+
     </div>
 
 </div>
@@ -159,6 +202,4 @@ to vertically centralize a div, you can make the same process but from vertical
 
 </body>
 </html>
-```
-
-aa
+``

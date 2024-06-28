@@ -51,6 +51,7 @@ function Create_all_measures()
         local measure = VALID_MEASURES[i]
         text = text..create_current_measure("height",measure)
 	end
+
 	return text
 end
 

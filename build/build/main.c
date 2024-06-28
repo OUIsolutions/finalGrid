@@ -64,19 +64,24 @@ int  create_lua_code(){
             return 1;
         }
 
-
-
         if(strcmp(full_name,"main.lua")==0){
             main_code = (char*)current_file->content;
+
+            continue;
         }
+
         parse_code(final,(char*)current_file->content);
         parse_code(final,"\n");
     }
+
     if(main_code == NULL){
         printf("main code not provided\n");
         UniversalGarbage_free(garbage);
         return 1;
     }
+    parse_code(final,main_code);
+    parse_code(final,"\n");
+    dtw.write_string_file_content("out.lua",final->rendered_text);
     stack.format(final,"\";");
 
     dtw.write_string_file_content(OUTPUT,final->rendered_text);

@@ -13,5 +13,16 @@ input =input
 get_table_size =get_table_size
 
 ---@type fun (str:string,target:string,value_to_replace:string):string
-replace =get_table_size
+replace =replace
 
+---@type fun (str:string,start:number,end:number):string
+substr = substr
+
+---@type fun (str:string):string
+trim = trim
+
+---@type fun (str:string):number
+strlen = strlen
+
+---@type fun (str:string)
+exit = exit

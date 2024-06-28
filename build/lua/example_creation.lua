@@ -12,5 +12,6 @@ function Create_examples(lib_path)
 		local internal = replace(current_content,LIB_SHORTCUT,formatted_lib_path)
 		local internal_path = dtw.concat_path(INTERNAL_EXAMPLES,name)
 		dtw.write_file(internal_path,internal)
+
 	end
 end

@@ -24,7 +24,8 @@ local function  format_code_of(readme_content)
         if inside_codeof and current_char == '\n' then
         	local formatedcodeof = trim(current_codeof)
         	local extension = dtw.newPath(formatedcodeof).get_extension()
-        	local content = dtw.load_file(formatedcodeof)
+        	local path = dtw.concat_path(EXTERNAL_EXAMPLES,formatedcodeof)
+        	local content = dtw.load_file(path)
         	if content == nil then
                 exit("content of "..formatedcodeof.." not provided")
         	end

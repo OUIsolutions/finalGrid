@@ -44,6 +44,6 @@ ssss
 </body>
 </html>
 ```
-[link to example](/external_examples/teste.html)bbb
+[link to example](/teste.html)bbb
 
 bb

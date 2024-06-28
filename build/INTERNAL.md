@@ -1,7 +1,7 @@
 
 aaaa
 ssss
-#codeof:teste.html
+#codeof:external_examples/teste.html
 
 
 bbb

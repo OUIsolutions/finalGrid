@@ -3,6 +3,8 @@ Line_starter =""
 Valid_measures_size = 0;
 local function main()
 
+
+    load_file("conf.lua")
     Valid_measures_size = get_table_size(VALID_MEASURES)
     if IDENT == true then
         Line_separator = "\n"

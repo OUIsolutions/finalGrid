@@ -43,7 +43,43 @@ end
 
 
 local function  format_references(readme_content)
-    return readme_content
+
+    local size = strlen(readme_content)
+    local inside_reference_of = false
+    local reference_of_size = strlen(REFERENCE_OF)
+    local i = 1
+    local text  = ""
+    local curente_reference_of = ""
+    while  i < size do
+    	local possible_reference_of = substr(readme_content,i,i+reference_of_size)
+        if possible_reference_of == REFERENCE_OF then
+        	inside_reference_of = true
+            i = i + reference_of_size
+        end
+
+        local current_char = substr(readme_content,i ,i+1)
+
+        if inside_reference_of == false then
+        	text = text..current_char
+        end
+
+        if inside_reference_of  and current_char ~= '\n' then
+        	curente_reference_of = curente_reference_of..current_char
+        end
+
+        if inside_reference_of and current_char == '\n' then
+        	local formatedreference_of = trim(curente_reference_of)
+        	local link = "["..LINK_TO_EXAMPLE_TEXT.."]("..formatedreference_of..")"
+        	text = text..link
+        	inside_reference_of = false
+        	curente_reference_of = ""
+
+        end
+
+        i = i + 1
+    end
+
+    return text
 end
 
 function GenerateReadme()

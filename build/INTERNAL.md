@@ -9,23 +9,29 @@ in these example we put one div on side of each other, these lib don't use margi
 or what ever , since its consider hard to understand, to create margins, just create an 
 empty div between divs
 
+#ref:put_a_div_right_to_other.html
+
+
 #codeof:put_a_div_right_to_other.html
 
-#ref:put_a_div_right_to_other.html
 
 ### Horizontally centralizing a div 
 to vertically centralize a div horizontally just create a container,
 then set 2 empty divs in the middle of it, with the half percent of the rest of the div size
-#codeof:horizontal_centralization.html
 
 #ref:horizontal_centralization.html
+
+
+#codeof:horizontal_centralization.html
+
 
 ### Vertically centralizing a lib 
 
 to vertically centralize a div, you can make the same process but from vertical
 
+#ref:vertical_centralization.html
+
 #codeof:vertical_centralization.html
 
-#ref:vertical_centralization.html
 
 aaa

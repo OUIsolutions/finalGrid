@@ -194,6 +194,42 @@ we can simulate grid system easily
         <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
         <div class="set-20-percent-for-width set-20-percent-for-height "></div>
 
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
+        <div class="set-20-percent-for-width set-20-percent-for-height blue"></div>
+        <div class="set-20-percent-for-width set-20-percent-for-height "></div>
+
 
     </div>
 

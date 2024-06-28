@@ -20,7 +20,7 @@ empty div between divs
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.001.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.002.css">
 
     <title>Document</title>
     <style>
@@ -71,7 +71,7 @@ then set 2 empty divs in the middle of it, with the half percent of the rest of 
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.001.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.002.css">
 
     <title>Document</title>
     <style>
@@ -120,7 +120,7 @@ to vertically centralize a div, you can make the same process but from vertical
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.001.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.002.css">
 
     <title>Document</title>
     <style>
@@ -166,7 +166,7 @@ if you want to make a box system , you will need 3 containers to organize it
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.001.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.002.css">
 
     <title>Document</title>
     <style>
@@ -214,7 +214,7 @@ for a better understand, lets put some colors in it
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.001.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.002.css">
 
     <title>Document</title>
     <style>
@@ -266,7 +266,7 @@ we can simulate grid system easily
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.001.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.002.css">
 
     <title>Document</title>
     <style>
@@ -354,7 +354,7 @@ otherwise the code will not work
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.001.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.002.css">
 
     <title>Document</title>
     <style>
@@ -407,7 +407,7 @@ otherwise the code will not work
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.001.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid@main/releases/0.002.css">
 
     <title>Document</title>
     <style>

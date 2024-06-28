@@ -13,9 +13,10 @@ local function main()
 
 
     local text = "."..FINAL_GRID_ROOT.."{position: absolute;width: 100vw;height: 100vh;left: 0;top: 0;}"
-    local final =text..Line_starter..Create_all_measures()
+    local final =text..Line_starter..Create_css()
     local release_path = dtw.concat_path("releases",RELEASE..".css")
 
+    print("release saved in "..release_path.."\n")
     dtw.write_file(release_path,final)
     Create_examples(release_path)
     GenerateReadme()

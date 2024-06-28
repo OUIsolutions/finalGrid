@@ -1,0 +1,7206 @@
+.finalGridRoot{position: absolute;width: 100vw;height: 100vh;left: 0;top: 0;}	
+.set-1-percent-for-width-{
+	width:1%;
+	float:left
+}
+.set-2-percent-for-width-{
+	width:2%;
+	float:left
+}
+.set-3-percent-for-width-{
+	width:3%;
+	float:left
+}
+.set-4-percent-for-width-{
+	width:4%;
+	float:left
+}
+.set-5-percent-for-width-{
+	width:5%;
+	float:left
+}
+.set-6-percent-for-width-{
+	width:6%;
+	float:left
+}
+.set-7-percent-for-width-{
+	width:7%;
+	float:left
+}
+.set-8-percent-for-width-{
+	width:8%;
+	float:left
+}
+.set-9-percent-for-width-{
+	width:9%;
+	float:left
+}
+.set-10-percent-for-width-{
+	width:10%;
+	float:left
+}
+.set-11-percent-for-width-{
+	width:11%;
+	float:left
+}
+.set-12-percent-for-width-{
+	width:12%;
+	float:left
+}
+.set-13-percent-for-width-{
+	width:13%;
+	float:left
+}
+.set-14-percent-for-width-{
+	width:14%;
+	float:left
+}
+.set-15-percent-for-width-{
+	width:15%;
+	float:left
+}
+.set-16-percent-for-width-{
+	width:16%;
+	float:left
+}
+.set-17-percent-for-width-{
+	width:17%;
+	float:left
+}
+.set-18-percent-for-width-{
+	width:18%;
+	float:left
+}
+.set-19-percent-for-width-{
+	width:19%;
+	float:left
+}
+.set-20-percent-for-width-{
+	width:20%;
+	float:left
+}
+.set-21-percent-for-width-{
+	width:21%;
+	float:left
+}
+.set-22-percent-for-width-{
+	width:22%;
+	float:left
+}
+.set-23-percent-for-width-{
+	width:23%;
+	float:left
+}
+.set-24-percent-for-width-{
+	width:24%;
+	float:left
+}
+.set-25-percent-for-width-{
+	width:25%;
+	float:left
+}
+.set-26-percent-for-width-{
+	width:26%;
+	float:left
+}
+.set-27-percent-for-width-{
+	width:27%;
+	float:left
+}
+.set-28-percent-for-width-{
+	width:28%;
+	float:left
+}
+.set-29-percent-for-width-{
+	width:29%;
+	float:left
+}
+.set-30-percent-for-width-{
+	width:30%;
+	float:left
+}
+.set-31-percent-for-width-{
+	width:31%;
+	float:left
+}
+.set-32-percent-for-width-{
+	width:32%;
+	float:left
+}
+.set-33-percent-for-width-{
+	width:33%;
+	float:left
+}
+.set-34-percent-for-width-{
+	width:34%;
+	float:left
+}
+.set-35-percent-for-width-{
+	width:35%;
+	float:left
+}
+.set-36-percent-for-width-{
+	width:36%;
+	float:left
+}
+.set-37-percent-for-width-{
+	width:37%;
+	float:left
+}
+.set-38-percent-for-width-{
+	width:38%;
+	float:left
+}
+.set-39-percent-for-width-{
+	width:39%;
+	float:left
+}
+.set-40-percent-for-width-{
+	width:40%;
+	float:left
+}
+.set-41-percent-for-width-{
+	width:41%;
+	float:left
+}
+.set-42-percent-for-width-{
+	width:42%;
+	float:left
+}
+.set-43-percent-for-width-{
+	width:43%;
+	float:left
+}
+.set-44-percent-for-width-{
+	width:44%;
+	float:left
+}
+.set-45-percent-for-width-{
+	width:45%;
+	float:left
+}
+.set-46-percent-for-width-{
+	width:46%;
+	float:left
+}
+.set-47-percent-for-width-{
+	width:47%;
+	float:left
+}
+.set-48-percent-for-width-{
+	width:48%;
+	float:left
+}
+.set-49-percent-for-width-{
+	width:49%;
+	float:left
+}
+.set-50-percent-for-width-{
+	width:50%;
+	float:left
+}
+.set-51-percent-for-width-{
+	width:51%;
+	float:left
+}
+.set-52-percent-for-width-{
+	width:52%;
+	float:left
+}
+.set-53-percent-for-width-{
+	width:53%;
+	float:left
+}
+.set-54-percent-for-width-{
+	width:54%;
+	float:left
+}
+.set-55-percent-for-width-{
+	width:55%;
+	float:left
+}
+.set-56-percent-for-width-{
+	width:56%;
+	float:left
+}
+.set-57-percent-for-width-{
+	width:57%;
+	float:left
+}
+.set-58-percent-for-width-{
+	width:58%;
+	float:left
+}
+.set-59-percent-for-width-{
+	width:59%;
+	float:left
+}
+.set-60-percent-for-width-{
+	width:60%;
+	float:left
+}
+.set-61-percent-for-width-{
+	width:61%;
+	float:left
+}
+.set-62-percent-for-width-{
+	width:62%;
+	float:left
+}
+.set-63-percent-for-width-{
+	width:63%;
+	float:left
+}
+.set-64-percent-for-width-{
+	width:64%;
+	float:left
+}
+.set-65-percent-for-width-{
+	width:65%;
+	float:left
+}
+.set-66-percent-for-width-{
+	width:66%;
+	float:left
+}
+.set-67-percent-for-width-{
+	width:67%;
+	float:left
+}
+.set-68-percent-for-width-{
+	width:68%;
+	float:left
+}
+.set-69-percent-for-width-{
+	width:69%;
+	float:left
+}
+.set-70-percent-for-width-{
+	width:70%;
+	float:left
+}
+.set-71-percent-for-width-{
+	width:71%;
+	float:left
+}
+.set-72-percent-for-width-{
+	width:72%;
+	float:left
+}
+.set-73-percent-for-width-{
+	width:73%;
+	float:left
+}
+.set-74-percent-for-width-{
+	width:74%;
+	float:left
+}
+.set-75-percent-for-width-{
+	width:75%;
+	float:left
+}
+.set-76-percent-for-width-{
+	width:76%;
+	float:left
+}
+.set-77-percent-for-width-{
+	width:77%;
+	float:left
+}
+.set-78-percent-for-width-{
+	width:78%;
+	float:left
+}
+.set-79-percent-for-width-{
+	width:79%;
+	float:left
+}
+.set-80-percent-for-width-{
+	width:80%;
+	float:left
+}
+.set-81-percent-for-width-{
+	width:81%;
+	float:left
+}
+.set-82-percent-for-width-{
+	width:82%;
+	float:left
+}
+.set-83-percent-for-width-{
+	width:83%;
+	float:left
+}
+.set-84-percent-for-width-{
+	width:84%;
+	float:left
+}
+.set-85-percent-for-width-{
+	width:85%;
+	float:left
+}
+.set-86-percent-for-width-{
+	width:86%;
+	float:left
+}
+.set-87-percent-for-width-{
+	width:87%;
+	float:left
+}
+.set-88-percent-for-width-{
+	width:88%;
+	float:left
+}
+.set-89-percent-for-width-{
+	width:89%;
+	float:left
+}
+.set-90-percent-for-width-{
+	width:90%;
+	float:left
+}
+.set-91-percent-for-width-{
+	width:91%;
+	float:left
+}
+.set-92-percent-for-width-{
+	width:92%;
+	float:left
+}
+.set-93-percent-for-width-{
+	width:93%;
+	float:left
+}
+.set-94-percent-for-width-{
+	width:94%;
+	float:left
+}
+.set-95-percent-for-width-{
+	width:95%;
+	float:left
+}
+.set-96-percent-for-width-{
+	width:96%;
+	float:left
+}
+.set-97-percent-for-width-{
+	width:97%;
+	float:left
+}
+.set-98-percent-for-width-{
+	width:98%;
+	float:left
+}
+.set-99-percent-for-width-{
+	width:99%;
+	float:left
+}
+.set-100-percent-for-width-{
+	width:100%;
+	float:left
+}
+.set-1-view-height-for-width-{
+	width:1vh;
+	float:left
+}
+.set-2-view-height-for-width-{
+	width:2vh;
+	float:left
+}
+.set-3-view-height-for-width-{
+	width:3vh;
+	float:left
+}
+.set-4-view-height-for-width-{
+	width:4vh;
+	float:left
+}
+.set-5-view-height-for-width-{
+	width:5vh;
+	float:left
+}
+.set-6-view-height-for-width-{
+	width:6vh;
+	float:left
+}
+.set-7-view-height-for-width-{
+	width:7vh;
+	float:left
+}
+.set-8-view-height-for-width-{
+	width:8vh;
+	float:left
+}
+.set-9-view-height-for-width-{
+	width:9vh;
+	float:left
+}
+.set-10-view-height-for-width-{
+	width:10vh;
+	float:left
+}
+.set-11-view-height-for-width-{
+	width:11vh;
+	float:left
+}
+.set-12-view-height-for-width-{
+	width:12vh;
+	float:left
+}
+.set-13-view-height-for-width-{
+	width:13vh;
+	float:left
+}
+.set-14-view-height-for-width-{
+	width:14vh;
+	float:left
+}
+.set-15-view-height-for-width-{
+	width:15vh;
+	float:left
+}
+.set-16-view-height-for-width-{
+	width:16vh;
+	float:left
+}
+.set-17-view-height-for-width-{
+	width:17vh;
+	float:left
+}
+.set-18-view-height-for-width-{
+	width:18vh;
+	float:left
+}
+.set-19-view-height-for-width-{
+	width:19vh;
+	float:left
+}
+.set-20-view-height-for-width-{
+	width:20vh;
+	float:left
+}
+.set-21-view-height-for-width-{
+	width:21vh;
+	float:left
+}
+.set-22-view-height-for-width-{
+	width:22vh;
+	float:left
+}
+.set-23-view-height-for-width-{
+	width:23vh;
+	float:left
+}
+.set-24-view-height-for-width-{
+	width:24vh;
+	float:left
+}
+.set-25-view-height-for-width-{
+	width:25vh;
+	float:left
+}
+.set-26-view-height-for-width-{
+	width:26vh;
+	float:left
+}
+.set-27-view-height-for-width-{
+	width:27vh;
+	float:left
+}
+.set-28-view-height-for-width-{
+	width:28vh;
+	float:left
+}
+.set-29-view-height-for-width-{
+	width:29vh;
+	float:left
+}
+.set-30-view-height-for-width-{
+	width:30vh;
+	float:left
+}
+.set-31-view-height-for-width-{
+	width:31vh;
+	float:left
+}
+.set-32-view-height-for-width-{
+	width:32vh;
+	float:left
+}
+.set-33-view-height-for-width-{
+	width:33vh;
+	float:left
+}
+.set-34-view-height-for-width-{
+	width:34vh;
+	float:left
+}
+.set-35-view-height-for-width-{
+	width:35vh;
+	float:left
+}
+.set-36-view-height-for-width-{
+	width:36vh;
+	float:left
+}
+.set-37-view-height-for-width-{
+	width:37vh;
+	float:left
+}
+.set-38-view-height-for-width-{
+	width:38vh;
+	float:left
+}
+.set-39-view-height-for-width-{
+	width:39vh;
+	float:left
+}
+.set-40-view-height-for-width-{
+	width:40vh;
+	float:left
+}
+.set-41-view-height-for-width-{
+	width:41vh;
+	float:left
+}
+.set-42-view-height-for-width-{
+	width:42vh;
+	float:left
+}
+.set-43-view-height-for-width-{
+	width:43vh;
+	float:left
+}
+.set-44-view-height-for-width-{
+	width:44vh;
+	float:left
+}
+.set-45-view-height-for-width-{
+	width:45vh;
+	float:left
+}
+.set-46-view-height-for-width-{
+	width:46vh;
+	float:left
+}
+.set-47-view-height-for-width-{
+	width:47vh;
+	float:left
+}
+.set-48-view-height-for-width-{
+	width:48vh;
+	float:left
+}
+.set-49-view-height-for-width-{
+	width:49vh;
+	float:left
+}
+.set-50-view-height-for-width-{
+	width:50vh;
+	float:left
+}
+.set-51-view-height-for-width-{
+	width:51vh;
+	float:left
+}
+.set-52-view-height-for-width-{
+	width:52vh;
+	float:left
+}
+.set-53-view-height-for-width-{
+	width:53vh;
+	float:left
+}
+.set-54-view-height-for-width-{
+	width:54vh;
+	float:left
+}
+.set-55-view-height-for-width-{
+	width:55vh;
+	float:left
+}
+.set-56-view-height-for-width-{
+	width:56vh;
+	float:left
+}
+.set-57-view-height-for-width-{
+	width:57vh;
+	float:left
+}
+.set-58-view-height-for-width-{
+	width:58vh;
+	float:left
+}
+.set-59-view-height-for-width-{
+	width:59vh;
+	float:left
+}
+.set-60-view-height-for-width-{
+	width:60vh;
+	float:left
+}
+.set-61-view-height-for-width-{
+	width:61vh;
+	float:left
+}
+.set-62-view-height-for-width-{
+	width:62vh;
+	float:left
+}
+.set-63-view-height-for-width-{
+	width:63vh;
+	float:left
+}
+.set-64-view-height-for-width-{
+	width:64vh;
+	float:left
+}
+.set-65-view-height-for-width-{
+	width:65vh;
+	float:left
+}
+.set-66-view-height-for-width-{
+	width:66vh;
+	float:left
+}
+.set-67-view-height-for-width-{
+	width:67vh;
+	float:left
+}
+.set-68-view-height-for-width-{
+	width:68vh;
+	float:left
+}
+.set-69-view-height-for-width-{
+	width:69vh;
+	float:left
+}
+.set-70-view-height-for-width-{
+	width:70vh;
+	float:left
+}
+.set-71-view-height-for-width-{
+	width:71vh;
+	float:left
+}
+.set-72-view-height-for-width-{
+	width:72vh;
+	float:left
+}
+.set-73-view-height-for-width-{
+	width:73vh;
+	float:left
+}
+.set-74-view-height-for-width-{
+	width:74vh;
+	float:left
+}
+.set-75-view-height-for-width-{
+	width:75vh;
+	float:left
+}
+.set-76-view-height-for-width-{
+	width:76vh;
+	float:left
+}
+.set-77-view-height-for-width-{
+	width:77vh;
+	float:left
+}
+.set-78-view-height-for-width-{
+	width:78vh;
+	float:left
+}
+.set-79-view-height-for-width-{
+	width:79vh;
+	float:left
+}
+.set-80-view-height-for-width-{
+	width:80vh;
+	float:left
+}
+.set-81-view-height-for-width-{
+	width:81vh;
+	float:left
+}
+.set-82-view-height-for-width-{
+	width:82vh;
+	float:left
+}
+.set-83-view-height-for-width-{
+	width:83vh;
+	float:left
+}
+.set-84-view-height-for-width-{
+	width:84vh;
+	float:left
+}
+.set-85-view-height-for-width-{
+	width:85vh;
+	float:left
+}
+.set-86-view-height-for-width-{
+	width:86vh;
+	float:left
+}
+.set-87-view-height-for-width-{
+	width:87vh;
+	float:left
+}
+.set-88-view-height-for-width-{
+	width:88vh;
+	float:left
+}
+.set-89-view-height-for-width-{
+	width:89vh;
+	float:left
+}
+.set-90-view-height-for-width-{
+	width:90vh;
+	float:left
+}
+.set-91-view-height-for-width-{
+	width:91vh;
+	float:left
+}
+.set-92-view-height-for-width-{
+	width:92vh;
+	float:left
+}
+.set-93-view-height-for-width-{
+	width:93vh;
+	float:left
+}
+.set-94-view-height-for-width-{
+	width:94vh;
+	float:left
+}
+.set-95-view-height-for-width-{
+	width:95vh;
+	float:left
+}
+.set-96-view-height-for-width-{
+	width:96vh;
+	float:left
+}
+.set-97-view-height-for-width-{
+	width:97vh;
+	float:left
+}
+.set-98-view-height-for-width-{
+	width:98vh;
+	float:left
+}
+.set-99-view-height-for-width-{
+	width:99vh;
+	float:left
+}
+.set-100-view-height-for-width-{
+	width:100vh;
+	float:left
+}
+.set-1-view-width-for-width-{
+	width:1vw;
+	float:left
+}
+.set-2-view-width-for-width-{
+	width:2vw;
+	float:left
+}
+.set-3-view-width-for-width-{
+	width:3vw;
+	float:left
+}
+.set-4-view-width-for-width-{
+	width:4vw;
+	float:left
+}
+.set-5-view-width-for-width-{
+	width:5vw;
+	float:left
+}
+.set-6-view-width-for-width-{
+	width:6vw;
+	float:left
+}
+.set-7-view-width-for-width-{
+	width:7vw;
+	float:left
+}
+.set-8-view-width-for-width-{
+	width:8vw;
+	float:left
+}
+.set-9-view-width-for-width-{
+	width:9vw;
+	float:left
+}
+.set-10-view-width-for-width-{
+	width:10vw;
+	float:left
+}
+.set-11-view-width-for-width-{
+	width:11vw;
+	float:left
+}
+.set-12-view-width-for-width-{
+	width:12vw;
+	float:left
+}
+.set-13-view-width-for-width-{
+	width:13vw;
+	float:left
+}
+.set-14-view-width-for-width-{
+	width:14vw;
+	float:left
+}
+.set-15-view-width-for-width-{
+	width:15vw;
+	float:left
+}
+.set-16-view-width-for-width-{
+	width:16vw;
+	float:left
+}
+.set-17-view-width-for-width-{
+	width:17vw;
+	float:left
+}
+.set-18-view-width-for-width-{
+	width:18vw;
+	float:left
+}
+.set-19-view-width-for-width-{
+	width:19vw;
+	float:left
+}
+.set-20-view-width-for-width-{
+	width:20vw;
+	float:left
+}
+.set-21-view-width-for-width-{
+	width:21vw;
+	float:left
+}
+.set-22-view-width-for-width-{
+	width:22vw;
+	float:left
+}
+.set-23-view-width-for-width-{
+	width:23vw;
+	float:left
+}
+.set-24-view-width-for-width-{
+	width:24vw;
+	float:left
+}
+.set-25-view-width-for-width-{
+	width:25vw;
+	float:left
+}
+.set-26-view-width-for-width-{
+	width:26vw;
+	float:left
+}
+.set-27-view-width-for-width-{
+	width:27vw;
+	float:left
+}
+.set-28-view-width-for-width-{
+	width:28vw;
+	float:left
+}
+.set-29-view-width-for-width-{
+	width:29vw;
+	float:left
+}
+.set-30-view-width-for-width-{
+	width:30vw;
+	float:left
+}
+.set-31-view-width-for-width-{
+	width:31vw;
+	float:left
+}
+.set-32-view-width-for-width-{
+	width:32vw;
+	float:left
+}
+.set-33-view-width-for-width-{
+	width:33vw;
+	float:left
+}
+.set-34-view-width-for-width-{
+	width:34vw;
+	float:left
+}
+.set-35-view-width-for-width-{
+	width:35vw;
+	float:left
+}
+.set-36-view-width-for-width-{
+	width:36vw;
+	float:left
+}
+.set-37-view-width-for-width-{
+	width:37vw;
+	float:left
+}
+.set-38-view-width-for-width-{
+	width:38vw;
+	float:left
+}
+.set-39-view-width-for-width-{
+	width:39vw;
+	float:left
+}
+.set-40-view-width-for-width-{
+	width:40vw;
+	float:left
+}
+.set-41-view-width-for-width-{
+	width:41vw;
+	float:left
+}
+.set-42-view-width-for-width-{
+	width:42vw;
+	float:left
+}
+.set-43-view-width-for-width-{
+	width:43vw;
+	float:left
+}
+.set-44-view-width-for-width-{
+	width:44vw;
+	float:left
+}
+.set-45-view-width-for-width-{
+	width:45vw;
+	float:left
+}
+.set-46-view-width-for-width-{
+	width:46vw;
+	float:left
+}
+.set-47-view-width-for-width-{
+	width:47vw;
+	float:left
+}
+.set-48-view-width-for-width-{
+	width:48vw;
+	float:left
+}
+.set-49-view-width-for-width-{
+	width:49vw;
+	float:left
+}
+.set-50-view-width-for-width-{
+	width:50vw;
+	float:left
+}
+.set-51-view-width-for-width-{
+	width:51vw;
+	float:left
+}
+.set-52-view-width-for-width-{
+	width:52vw;
+	float:left
+}
+.set-53-view-width-for-width-{
+	width:53vw;
+	float:left
+}
+.set-54-view-width-for-width-{
+	width:54vw;
+	float:left
+}
+.set-55-view-width-for-width-{
+	width:55vw;
+	float:left
+}
+.set-56-view-width-for-width-{
+	width:56vw;
+	float:left
+}
+.set-57-view-width-for-width-{
+	width:57vw;
+	float:left
+}
+.set-58-view-width-for-width-{
+	width:58vw;
+	float:left
+}
+.set-59-view-width-for-width-{
+	width:59vw;
+	float:left
+}
+.set-60-view-width-for-width-{
+	width:60vw;
+	float:left
+}
+.set-61-view-width-for-width-{
+	width:61vw;
+	float:left
+}
+.set-62-view-width-for-width-{
+	width:62vw;
+	float:left
+}
+.set-63-view-width-for-width-{
+	width:63vw;
+	float:left
+}
+.set-64-view-width-for-width-{
+	width:64vw;
+	float:left
+}
+.set-65-view-width-for-width-{
+	width:65vw;
+	float:left
+}
+.set-66-view-width-for-width-{
+	width:66vw;
+	float:left
+}
+.set-67-view-width-for-width-{
+	width:67vw;
+	float:left
+}
+.set-68-view-width-for-width-{
+	width:68vw;
+	float:left
+}
+.set-69-view-width-for-width-{
+	width:69vw;
+	float:left
+}
+.set-70-view-width-for-width-{
+	width:70vw;
+	float:left
+}
+.set-71-view-width-for-width-{
+	width:71vw;
+	float:left
+}
+.set-72-view-width-for-width-{
+	width:72vw;
+	float:left
+}
+.set-73-view-width-for-width-{
+	width:73vw;
+	float:left
+}
+.set-74-view-width-for-width-{
+	width:74vw;
+	float:left
+}
+.set-75-view-width-for-width-{
+	width:75vw;
+	float:left
+}
+.set-76-view-width-for-width-{
+	width:76vw;
+	float:left
+}
+.set-77-view-width-for-width-{
+	width:77vw;
+	float:left
+}
+.set-78-view-width-for-width-{
+	width:78vw;
+	float:left
+}
+.set-79-view-width-for-width-{
+	width:79vw;
+	float:left
+}
+.set-80-view-width-for-width-{
+	width:80vw;
+	float:left
+}
+.set-81-view-width-for-width-{
+	width:81vw;
+	float:left
+}
+.set-82-view-width-for-width-{
+	width:82vw;
+	float:left
+}
+.set-83-view-width-for-width-{
+	width:83vw;
+	float:left
+}
+.set-84-view-width-for-width-{
+	width:84vw;
+	float:left
+}
+.set-85-view-width-for-width-{
+	width:85vw;
+	float:left
+}
+.set-86-view-width-for-width-{
+	width:86vw;
+	float:left
+}
+.set-87-view-width-for-width-{
+	width:87vw;
+	float:left
+}
+.set-88-view-width-for-width-{
+	width:88vw;
+	float:left
+}
+.set-89-view-width-for-width-{
+	width:89vw;
+	float:left
+}
+.set-90-view-width-for-width-{
+	width:90vw;
+	float:left
+}
+.set-91-view-width-for-width-{
+	width:91vw;
+	float:left
+}
+.set-92-view-width-for-width-{
+	width:92vw;
+	float:left
+}
+.set-93-view-width-for-width-{
+	width:93vw;
+	float:left
+}
+.set-94-view-width-for-width-{
+	width:94vw;
+	float:left
+}
+.set-95-view-width-for-width-{
+	width:95vw;
+	float:left
+}
+.set-96-view-width-for-width-{
+	width:96vw;
+	float:left
+}
+.set-97-view-width-for-width-{
+	width:97vw;
+	float:left
+}
+.set-98-view-width-for-width-{
+	width:98vw;
+	float:left
+}
+.set-99-view-width-for-width-{
+	width:99vw;
+	float:left
+}
+.set-100-view-width-for-width-{
+	width:100vw;
+	float:left
+}
+.set-1-percent-for-height-{
+	height:1%;
+	float:left
+}
+.set-2-percent-for-height-{
+	height:2%;
+	float:left
+}
+.set-3-percent-for-height-{
+	height:3%;
+	float:left
+}
+.set-4-percent-for-height-{
+	height:4%;
+	float:left
+}
+.set-5-percent-for-height-{
+	height:5%;
+	float:left
+}
+.set-6-percent-for-height-{
+	height:6%;
+	float:left
+}
+.set-7-percent-for-height-{
+	height:7%;
+	float:left
+}
+.set-8-percent-for-height-{
+	height:8%;
+	float:left
+}
+.set-9-percent-for-height-{
+	height:9%;
+	float:left
+}
+.set-10-percent-for-height-{
+	height:10%;
+	float:left
+}
+.set-11-percent-for-height-{
+	height:11%;
+	float:left
+}
+.set-12-percent-for-height-{
+	height:12%;
+	float:left
+}
+.set-13-percent-for-height-{
+	height:13%;
+	float:left
+}
+.set-14-percent-for-height-{
+	height:14%;
+	float:left
+}
+.set-15-percent-for-height-{
+	height:15%;
+	float:left
+}
+.set-16-percent-for-height-{
+	height:16%;
+	float:left
+}
+.set-17-percent-for-height-{
+	height:17%;
+	float:left
+}
+.set-18-percent-for-height-{
+	height:18%;
+	float:left
+}
+.set-19-percent-for-height-{
+	height:19%;
+	float:left
+}
+.set-20-percent-for-height-{
+	height:20%;
+	float:left
+}
+.set-21-percent-for-height-{
+	height:21%;
+	float:left
+}
+.set-22-percent-for-height-{
+	height:22%;
+	float:left
+}
+.set-23-percent-for-height-{
+	height:23%;
+	float:left
+}
+.set-24-percent-for-height-{
+	height:24%;
+	float:left
+}
+.set-25-percent-for-height-{
+	height:25%;
+	float:left
+}
+.set-26-percent-for-height-{
+	height:26%;
+	float:left
+}
+.set-27-percent-for-height-{
+	height:27%;
+	float:left
+}
+.set-28-percent-for-height-{
+	height:28%;
+	float:left
+}
+.set-29-percent-for-height-{
+	height:29%;
+	float:left
+}
+.set-30-percent-for-height-{
+	height:30%;
+	float:left
+}
+.set-31-percent-for-height-{
+	height:31%;
+	float:left
+}
+.set-32-percent-for-height-{
+	height:32%;
+	float:left
+}
+.set-33-percent-for-height-{
+	height:33%;
+	float:left
+}
+.set-34-percent-for-height-{
+	height:34%;
+	float:left
+}
+.set-35-percent-for-height-{
+	height:35%;
+	float:left
+}
+.set-36-percent-for-height-{
+	height:36%;
+	float:left
+}
+.set-37-percent-for-height-{
+	height:37%;
+	float:left
+}
+.set-38-percent-for-height-{
+	height:38%;
+	float:left
+}
+.set-39-percent-for-height-{
+	height:39%;
+	float:left
+}
+.set-40-percent-for-height-{
+	height:40%;
+	float:left
+}
+.set-41-percent-for-height-{
+	height:41%;
+	float:left
+}
+.set-42-percent-for-height-{
+	height:42%;
+	float:left
+}
+.set-43-percent-for-height-{
+	height:43%;
+	float:left
+}
+.set-44-percent-for-height-{
+	height:44%;
+	float:left
+}
+.set-45-percent-for-height-{
+	height:45%;
+	float:left
+}
+.set-46-percent-for-height-{
+	height:46%;
+	float:left
+}
+.set-47-percent-for-height-{
+	height:47%;
+	float:left
+}
+.set-48-percent-for-height-{
+	height:48%;
+	float:left
+}
+.set-49-percent-for-height-{
+	height:49%;
+	float:left
+}
+.set-50-percent-for-height-{
+	height:50%;
+	float:left
+}
+.set-51-percent-for-height-{
+	height:51%;
+	float:left
+}
+.set-52-percent-for-height-{
+	height:52%;
+	float:left
+}
+.set-53-percent-for-height-{
+	height:53%;
+	float:left
+}
+.set-54-percent-for-height-{
+	height:54%;
+	float:left
+}
+.set-55-percent-for-height-{
+	height:55%;
+	float:left
+}
+.set-56-percent-for-height-{
+	height:56%;
+	float:left
+}
+.set-57-percent-for-height-{
+	height:57%;
+	float:left
+}
+.set-58-percent-for-height-{
+	height:58%;
+	float:left
+}
+.set-59-percent-for-height-{
+	height:59%;
+	float:left
+}
+.set-60-percent-for-height-{
+	height:60%;
+	float:left
+}
+.set-61-percent-for-height-{
+	height:61%;
+	float:left
+}
+.set-62-percent-for-height-{
+	height:62%;
+	float:left
+}
+.set-63-percent-for-height-{
+	height:63%;
+	float:left
+}
+.set-64-percent-for-height-{
+	height:64%;
+	float:left
+}
+.set-65-percent-for-height-{
+	height:65%;
+	float:left
+}
+.set-66-percent-for-height-{
+	height:66%;
+	float:left
+}
+.set-67-percent-for-height-{
+	height:67%;
+	float:left
+}
+.set-68-percent-for-height-{
+	height:68%;
+	float:left
+}
+.set-69-percent-for-height-{
+	height:69%;
+	float:left
+}
+.set-70-percent-for-height-{
+	height:70%;
+	float:left
+}
+.set-71-percent-for-height-{
+	height:71%;
+	float:left
+}
+.set-72-percent-for-height-{
+	height:72%;
+	float:left
+}
+.set-73-percent-for-height-{
+	height:73%;
+	float:left
+}
+.set-74-percent-for-height-{
+	height:74%;
+	float:left
+}
+.set-75-percent-for-height-{
+	height:75%;
+	float:left
+}
+.set-76-percent-for-height-{
+	height:76%;
+	float:left
+}
+.set-77-percent-for-height-{
+	height:77%;
+	float:left
+}
+.set-78-percent-for-height-{
+	height:78%;
+	float:left
+}
+.set-79-percent-for-height-{
+	height:79%;
+	float:left
+}
+.set-80-percent-for-height-{
+	height:80%;
+	float:left
+}
+.set-81-percent-for-height-{
+	height:81%;
+	float:left
+}
+.set-82-percent-for-height-{
+	height:82%;
+	float:left
+}
+.set-83-percent-for-height-{
+	height:83%;
+	float:left
+}
+.set-84-percent-for-height-{
+	height:84%;
+	float:left
+}
+.set-85-percent-for-height-{
+	height:85%;
+	float:left
+}
+.set-86-percent-for-height-{
+	height:86%;
+	float:left
+}
+.set-87-percent-for-height-{
+	height:87%;
+	float:left
+}
+.set-88-percent-for-height-{
+	height:88%;
+	float:left
+}
+.set-89-percent-for-height-{
+	height:89%;
+	float:left
+}
+.set-90-percent-for-height-{
+	height:90%;
+	float:left
+}
+.set-91-percent-for-height-{
+	height:91%;
+	float:left
+}
+.set-92-percent-for-height-{
+	height:92%;
+	float:left
+}
+.set-93-percent-for-height-{
+	height:93%;
+	float:left
+}
+.set-94-percent-for-height-{
+	height:94%;
+	float:left
+}
+.set-95-percent-for-height-{
+	height:95%;
+	float:left
+}
+.set-96-percent-for-height-{
+	height:96%;
+	float:left
+}
+.set-97-percent-for-height-{
+	height:97%;
+	float:left
+}
+.set-98-percent-for-height-{
+	height:98%;
+	float:left
+}
+.set-99-percent-for-height-{
+	height:99%;
+	float:left
+}
+.set-100-percent-for-height-{
+	height:100%;
+	float:left
+}
+.set-1-view-height-for-height-{
+	height:1vh;
+	float:left
+}
+.set-2-view-height-for-height-{
+	height:2vh;
+	float:left
+}
+.set-3-view-height-for-height-{
+	height:3vh;
+	float:left
+}
+.set-4-view-height-for-height-{
+	height:4vh;
+	float:left
+}
+.set-5-view-height-for-height-{
+	height:5vh;
+	float:left
+}
+.set-6-view-height-for-height-{
+	height:6vh;
+	float:left
+}
+.set-7-view-height-for-height-{
+	height:7vh;
+	float:left
+}
+.set-8-view-height-for-height-{
+	height:8vh;
+	float:left
+}
+.set-9-view-height-for-height-{
+	height:9vh;
+	float:left
+}
+.set-10-view-height-for-height-{
+	height:10vh;
+	float:left
+}
+.set-11-view-height-for-height-{
+	height:11vh;
+	float:left
+}
+.set-12-view-height-for-height-{
+	height:12vh;
+	float:left
+}
+.set-13-view-height-for-height-{
+	height:13vh;
+	float:left
+}
+.set-14-view-height-for-height-{
+	height:14vh;
+	float:left
+}
+.set-15-view-height-for-height-{
+	height:15vh;
+	float:left
+}
+.set-16-view-height-for-height-{
+	height:16vh;
+	float:left
+}
+.set-17-view-height-for-height-{
+	height:17vh;
+	float:left
+}
+.set-18-view-height-for-height-{
+	height:18vh;
+	float:left
+}
+.set-19-view-height-for-height-{
+	height:19vh;
+	float:left
+}
+.set-20-view-height-for-height-{
+	height:20vh;
+	float:left
+}
+.set-21-view-height-for-height-{
+	height:21vh;
+	float:left
+}
+.set-22-view-height-for-height-{
+	height:22vh;
+	float:left
+}
+.set-23-view-height-for-height-{
+	height:23vh;
+	float:left
+}
+.set-24-view-height-for-height-{
+	height:24vh;
+	float:left
+}
+.set-25-view-height-for-height-{
+	height:25vh;
+	float:left
+}
+.set-26-view-height-for-height-{
+	height:26vh;
+	float:left
+}
+.set-27-view-height-for-height-{
+	height:27vh;
+	float:left
+}
+.set-28-view-height-for-height-{
+	height:28vh;
+	float:left
+}
+.set-29-view-height-for-height-{
+	height:29vh;
+	float:left
+}
+.set-30-view-height-for-height-{
+	height:30vh;
+	float:left
+}
+.set-31-view-height-for-height-{
+	height:31vh;
+	float:left
+}
+.set-32-view-height-for-height-{
+	height:32vh;
+	float:left
+}
+.set-33-view-height-for-height-{
+	height:33vh;
+	float:left
+}
+.set-34-view-height-for-height-{
+	height:34vh;
+	float:left
+}
+.set-35-view-height-for-height-{
+	height:35vh;
+	float:left
+}
+.set-36-view-height-for-height-{
+	height:36vh;
+	float:left
+}
+.set-37-view-height-for-height-{
+	height:37vh;
+	float:left
+}
+.set-38-view-height-for-height-{
+	height:38vh;
+	float:left
+}
+.set-39-view-height-for-height-{
+	height:39vh;
+	float:left
+}
+.set-40-view-height-for-height-{
+	height:40vh;
+	float:left
+}
+.set-41-view-height-for-height-{
+	height:41vh;
+	float:left
+}
+.set-42-view-height-for-height-{
+	height:42vh;
+	float:left
+}
+.set-43-view-height-for-height-{
+	height:43vh;
+	float:left
+}
+.set-44-view-height-for-height-{
+	height:44vh;
+	float:left
+}
+.set-45-view-height-for-height-{
+	height:45vh;
+	float:left
+}
+.set-46-view-height-for-height-{
+	height:46vh;
+	float:left
+}
+.set-47-view-height-for-height-{
+	height:47vh;
+	float:left
+}
+.set-48-view-height-for-height-{
+	height:48vh;
+	float:left
+}
+.set-49-view-height-for-height-{
+	height:49vh;
+	float:left
+}
+.set-50-view-height-for-height-{
+	height:50vh;
+	float:left
+}
+.set-51-view-height-for-height-{
+	height:51vh;
+	float:left
+}
+.set-52-view-height-for-height-{
+	height:52vh;
+	float:left
+}
+.set-53-view-height-for-height-{
+	height:53vh;
+	float:left
+}
+.set-54-view-height-for-height-{
+	height:54vh;
+	float:left
+}
+.set-55-view-height-for-height-{
+	height:55vh;
+	float:left
+}
+.set-56-view-height-for-height-{
+	height:56vh;
+	float:left
+}
+.set-57-view-height-for-height-{
+	height:57vh;
+	float:left
+}
+.set-58-view-height-for-height-{
+	height:58vh;
+	float:left
+}
+.set-59-view-height-for-height-{
+	height:59vh;
+	float:left
+}
+.set-60-view-height-for-height-{
+	height:60vh;
+	float:left
+}
+.set-61-view-height-for-height-{
+	height:61vh;
+	float:left
+}
+.set-62-view-height-for-height-{
+	height:62vh;
+	float:left
+}
+.set-63-view-height-for-height-{
+	height:63vh;
+	float:left
+}
+.set-64-view-height-for-height-{
+	height:64vh;
+	float:left
+}
+.set-65-view-height-for-height-{
+	height:65vh;
+	float:left
+}
+.set-66-view-height-for-height-{
+	height:66vh;
+	float:left
+}
+.set-67-view-height-for-height-{
+	height:67vh;
+	float:left
+}
+.set-68-view-height-for-height-{
+	height:68vh;
+	float:left
+}
+.set-69-view-height-for-height-{
+	height:69vh;
+	float:left
+}
+.set-70-view-height-for-height-{
+	height:70vh;
+	float:left
+}
+.set-71-view-height-for-height-{
+	height:71vh;
+	float:left
+}
+.set-72-view-height-for-height-{
+	height:72vh;
+	float:left
+}
+.set-73-view-height-for-height-{
+	height:73vh;
+	float:left
+}
+.set-74-view-height-for-height-{
+	height:74vh;
+	float:left
+}
+.set-75-view-height-for-height-{
+	height:75vh;
+	float:left
+}
+.set-76-view-height-for-height-{
+	height:76vh;
+	float:left
+}
+.set-77-view-height-for-height-{
+	height:77vh;
+	float:left
+}
+.set-78-view-height-for-height-{
+	height:78vh;
+	float:left
+}
+.set-79-view-height-for-height-{
+	height:79vh;
+	float:left
+}
+.set-80-view-height-for-height-{
+	height:80vh;
+	float:left
+}
+.set-81-view-height-for-height-{
+	height:81vh;
+	float:left
+}
+.set-82-view-height-for-height-{
+	height:82vh;
+	float:left
+}
+.set-83-view-height-for-height-{
+	height:83vh;
+	float:left
+}
+.set-84-view-height-for-height-{
+	height:84vh;
+	float:left
+}
+.set-85-view-height-for-height-{
+	height:85vh;
+	float:left
+}
+.set-86-view-height-for-height-{
+	height:86vh;
+	float:left
+}
+.set-87-view-height-for-height-{
+	height:87vh;
+	float:left
+}
+.set-88-view-height-for-height-{
+	height:88vh;
+	float:left
+}
+.set-89-view-height-for-height-{
+	height:89vh;
+	float:left
+}
+.set-90-view-height-for-height-{
+	height:90vh;
+	float:left
+}
+.set-91-view-height-for-height-{
+	height:91vh;
+	float:left
+}
+.set-92-view-height-for-height-{
+	height:92vh;
+	float:left
+}
+.set-93-view-height-for-height-{
+	height:93vh;
+	float:left
+}
+.set-94-view-height-for-height-{
+	height:94vh;
+	float:left
+}
+.set-95-view-height-for-height-{
+	height:95vh;
+	float:left
+}
+.set-96-view-height-for-height-{
+	height:96vh;
+	float:left
+}
+.set-97-view-height-for-height-{
+	height:97vh;
+	float:left
+}
+.set-98-view-height-for-height-{
+	height:98vh;
+	float:left
+}
+.set-99-view-height-for-height-{
+	height:99vh;
+	float:left
+}
+.set-100-view-height-for-height-{
+	height:100vh;
+	float:left
+}
+.set-1-view-width-for-height-{
+	height:1vw;
+	float:left
+}
+.set-2-view-width-for-height-{
+	height:2vw;
+	float:left
+}
+.set-3-view-width-for-height-{
+	height:3vw;
+	float:left
+}
+.set-4-view-width-for-height-{
+	height:4vw;
+	float:left
+}
+.set-5-view-width-for-height-{
+	height:5vw;
+	float:left
+}
+.set-6-view-width-for-height-{
+	height:6vw;
+	float:left
+}
+.set-7-view-width-for-height-{
+	height:7vw;
+	float:left
+}
+.set-8-view-width-for-height-{
+	height:8vw;
+	float:left
+}
+.set-9-view-width-for-height-{
+	height:9vw;
+	float:left
+}
+.set-10-view-width-for-height-{
+	height:10vw;
+	float:left
+}
+.set-11-view-width-for-height-{
+	height:11vw;
+	float:left
+}
+.set-12-view-width-for-height-{
+	height:12vw;
+	float:left
+}
+.set-13-view-width-for-height-{
+	height:13vw;
+	float:left
+}
+.set-14-view-width-for-height-{
+	height:14vw;
+	float:left
+}
+.set-15-view-width-for-height-{
+	height:15vw;
+	float:left
+}
+.set-16-view-width-for-height-{
+	height:16vw;
+	float:left
+}
+.set-17-view-width-for-height-{
+	height:17vw;
+	float:left
+}
+.set-18-view-width-for-height-{
+	height:18vw;
+	float:left
+}
+.set-19-view-width-for-height-{
+	height:19vw;
+	float:left
+}
+.set-20-view-width-for-height-{
+	height:20vw;
+	float:left
+}
+.set-21-view-width-for-height-{
+	height:21vw;
+	float:left
+}
+.set-22-view-width-for-height-{
+	height:22vw;
+	float:left
+}
+.set-23-view-width-for-height-{
+	height:23vw;
+	float:left
+}
+.set-24-view-width-for-height-{
+	height:24vw;
+	float:left
+}
+.set-25-view-width-for-height-{
+	height:25vw;
+	float:left
+}
+.set-26-view-width-for-height-{
+	height:26vw;
+	float:left
+}
+.set-27-view-width-for-height-{
+	height:27vw;
+	float:left
+}
+.set-28-view-width-for-height-{
+	height:28vw;
+	float:left
+}
+.set-29-view-width-for-height-{
+	height:29vw;
+	float:left
+}
+.set-30-view-width-for-height-{
+	height:30vw;
+	float:left
+}
+.set-31-view-width-for-height-{
+	height:31vw;
+	float:left
+}
+.set-32-view-width-for-height-{
+	height:32vw;
+	float:left
+}
+.set-33-view-width-for-height-{
+	height:33vw;
+	float:left
+}
+.set-34-view-width-for-height-{
+	height:34vw;
+	float:left
+}
+.set-35-view-width-for-height-{
+	height:35vw;
+	float:left
+}
+.set-36-view-width-for-height-{
+	height:36vw;
+	float:left
+}
+.set-37-view-width-for-height-{
+	height:37vw;
+	float:left
+}
+.set-38-view-width-for-height-{
+	height:38vw;
+	float:left
+}
+.set-39-view-width-for-height-{
+	height:39vw;
+	float:left
+}
+.set-40-view-width-for-height-{
+	height:40vw;
+	float:left
+}
+.set-41-view-width-for-height-{
+	height:41vw;
+	float:left
+}
+.set-42-view-width-for-height-{
+	height:42vw;
+	float:left
+}
+.set-43-view-width-for-height-{
+	height:43vw;
+	float:left
+}
+.set-44-view-width-for-height-{
+	height:44vw;
+	float:left
+}
+.set-45-view-width-for-height-{
+	height:45vw;
+	float:left
+}
+.set-46-view-width-for-height-{
+	height:46vw;
+	float:left
+}
+.set-47-view-width-for-height-{
+	height:47vw;
+	float:left
+}
+.set-48-view-width-for-height-{
+	height:48vw;
+	float:left
+}
+.set-49-view-width-for-height-{
+	height:49vw;
+	float:left
+}
+.set-50-view-width-for-height-{
+	height:50vw;
+	float:left
+}
+.set-51-view-width-for-height-{
+	height:51vw;
+	float:left
+}
+.set-52-view-width-for-height-{
+	height:52vw;
+	float:left
+}
+.set-53-view-width-for-height-{
+	height:53vw;
+	float:left
+}
+.set-54-view-width-for-height-{
+	height:54vw;
+	float:left
+}
+.set-55-view-width-for-height-{
+	height:55vw;
+	float:left
+}
+.set-56-view-width-for-height-{
+	height:56vw;
+	float:left
+}
+.set-57-view-width-for-height-{
+	height:57vw;
+	float:left
+}
+.set-58-view-width-for-height-{
+	height:58vw;
+	float:left
+}
+.set-59-view-width-for-height-{
+	height:59vw;
+	float:left
+}
+.set-60-view-width-for-height-{
+	height:60vw;
+	float:left
+}
+.set-61-view-width-for-height-{
+	height:61vw;
+	float:left
+}
+.set-62-view-width-for-height-{
+	height:62vw;
+	float:left
+}
+.set-63-view-width-for-height-{
+	height:63vw;
+	float:left
+}
+.set-64-view-width-for-height-{
+	height:64vw;
+	float:left
+}
+.set-65-view-width-for-height-{
+	height:65vw;
+	float:left
+}
+.set-66-view-width-for-height-{
+	height:66vw;
+	float:left
+}
+.set-67-view-width-for-height-{
+	height:67vw;
+	float:left
+}
+.set-68-view-width-for-height-{
+	height:68vw;
+	float:left
+}
+.set-69-view-width-for-height-{
+	height:69vw;
+	float:left
+}
+.set-70-view-width-for-height-{
+	height:70vw;
+	float:left
+}
+.set-71-view-width-for-height-{
+	height:71vw;
+	float:left
+}
+.set-72-view-width-for-height-{
+	height:72vw;
+	float:left
+}
+.set-73-view-width-for-height-{
+	height:73vw;
+	float:left
+}
+.set-74-view-width-for-height-{
+	height:74vw;
+	float:left
+}
+.set-75-view-width-for-height-{
+	height:75vw;
+	float:left
+}
+.set-76-view-width-for-height-{
+	height:76vw;
+	float:left
+}
+.set-77-view-width-for-height-{
+	height:77vw;
+	float:left
+}
+.set-78-view-width-for-height-{
+	height:78vw;
+	float:left
+}
+.set-79-view-width-for-height-{
+	height:79vw;
+	float:left
+}
+.set-80-view-width-for-height-{
+	height:80vw;
+	float:left
+}
+.set-81-view-width-for-height-{
+	height:81vw;
+	float:left
+}
+.set-82-view-width-for-height-{
+	height:82vw;
+	float:left
+}
+.set-83-view-width-for-height-{
+	height:83vw;
+	float:left
+}
+.set-84-view-width-for-height-{
+	height:84vw;
+	float:left
+}
+.set-85-view-width-for-height-{
+	height:85vw;
+	float:left
+}
+.set-86-view-width-for-height-{
+	height:86vw;
+	float:left
+}
+.set-87-view-width-for-height-{
+	height:87vw;
+	float:left
+}
+.set-88-view-width-for-height-{
+	height:88vw;
+	float:left
+}
+.set-89-view-width-for-height-{
+	height:89vw;
+	float:left
+}
+.set-90-view-width-for-height-{
+	height:90vw;
+	float:left
+}
+.set-91-view-width-for-height-{
+	height:91vw;
+	float:left
+}
+.set-92-view-width-for-height-{
+	height:92vw;
+	float:left
+}
+.set-93-view-width-for-height-{
+	height:93vw;
+	float:left
+}
+.set-94-view-width-for-height-{
+	height:94vw;
+	float:left
+}
+.set-95-view-width-for-height-{
+	height:95vw;
+	float:left
+}
+.set-96-view-width-for-height-{
+	height:96vw;
+	float:left
+}
+.set-97-view-width-for-height-{
+	height:97vw;
+	float:left
+}
+.set-98-view-width-for-height-{
+	height:98vw;
+	float:left
+}
+.set-99-view-width-for-height-{
+	height:99vw;
+	float:left
+}
+.set-100-view-width-for-height-{
+	height:100vw;
+	float:left
+}@media (orientation: portrait){
+
+.set-1-percent-for-width-if-portrait{
+	width:1%;
+	float:left
+}
+.set-2-percent-for-width-if-portrait{
+	width:2%;
+	float:left
+}
+.set-3-percent-for-width-if-portrait{
+	width:3%;
+	float:left
+}
+.set-4-percent-for-width-if-portrait{
+	width:4%;
+	float:left
+}
+.set-5-percent-for-width-if-portrait{
+	width:5%;
+	float:left
+}
+.set-6-percent-for-width-if-portrait{
+	width:6%;
+	float:left
+}
+.set-7-percent-for-width-if-portrait{
+	width:7%;
+	float:left
+}
+.set-8-percent-for-width-if-portrait{
+	width:8%;
+	float:left
+}
+.set-9-percent-for-width-if-portrait{
+	width:9%;
+	float:left
+}
+.set-10-percent-for-width-if-portrait{
+	width:10%;
+	float:left
+}
+.set-11-percent-for-width-if-portrait{
+	width:11%;
+	float:left
+}
+.set-12-percent-for-width-if-portrait{
+	width:12%;
+	float:left
+}
+.set-13-percent-for-width-if-portrait{
+	width:13%;
+	float:left
+}
+.set-14-percent-for-width-if-portrait{
+	width:14%;
+	float:left
+}
+.set-15-percent-for-width-if-portrait{
+	width:15%;
+	float:left
+}
+.set-16-percent-for-width-if-portrait{
+	width:16%;
+	float:left
+}
+.set-17-percent-for-width-if-portrait{
+	width:17%;
+	float:left
+}
+.set-18-percent-for-width-if-portrait{
+	width:18%;
+	float:left
+}
+.set-19-percent-for-width-if-portrait{
+	width:19%;
+	float:left
+}
+.set-20-percent-for-width-if-portrait{
+	width:20%;
+	float:left
+}
+.set-21-percent-for-width-if-portrait{
+	width:21%;
+	float:left
+}
+.set-22-percent-for-width-if-portrait{
+	width:22%;
+	float:left
+}
+.set-23-percent-for-width-if-portrait{
+	width:23%;
+	float:left
+}
+.set-24-percent-for-width-if-portrait{
+	width:24%;
+	float:left
+}
+.set-25-percent-for-width-if-portrait{
+	width:25%;
+	float:left
+}
+.set-26-percent-for-width-if-portrait{
+	width:26%;
+	float:left
+}
+.set-27-percent-for-width-if-portrait{
+	width:27%;
+	float:left
+}
+.set-28-percent-for-width-if-portrait{
+	width:28%;
+	float:left
+}
+.set-29-percent-for-width-if-portrait{
+	width:29%;
+	float:left
+}
+.set-30-percent-for-width-if-portrait{
+	width:30%;
+	float:left
+}
+.set-31-percent-for-width-if-portrait{
+	width:31%;
+	float:left
+}
+.set-32-percent-for-width-if-portrait{
+	width:32%;
+	float:left
+}
+.set-33-percent-for-width-if-portrait{
+	width:33%;
+	float:left
+}
+.set-34-percent-for-width-if-portrait{
+	width:34%;
+	float:left
+}
+.set-35-percent-for-width-if-portrait{
+	width:35%;
+	float:left
+}
+.set-36-percent-for-width-if-portrait{
+	width:36%;
+	float:left
+}
+.set-37-percent-for-width-if-portrait{
+	width:37%;
+	float:left
+}
+.set-38-percent-for-width-if-portrait{
+	width:38%;
+	float:left
+}
+.set-39-percent-for-width-if-portrait{
+	width:39%;
+	float:left
+}
+.set-40-percent-for-width-if-portrait{
+	width:40%;
+	float:left
+}
+.set-41-percent-for-width-if-portrait{
+	width:41%;
+	float:left
+}
+.set-42-percent-for-width-if-portrait{
+	width:42%;
+	float:left
+}
+.set-43-percent-for-width-if-portrait{
+	width:43%;
+	float:left
+}
+.set-44-percent-for-width-if-portrait{
+	width:44%;
+	float:left
+}
+.set-45-percent-for-width-if-portrait{
+	width:45%;
+	float:left
+}
+.set-46-percent-for-width-if-portrait{
+	width:46%;
+	float:left
+}
+.set-47-percent-for-width-if-portrait{
+	width:47%;
+	float:left
+}
+.set-48-percent-for-width-if-portrait{
+	width:48%;
+	float:left
+}
+.set-49-percent-for-width-if-portrait{
+	width:49%;
+	float:left
+}
+.set-50-percent-for-width-if-portrait{
+	width:50%;
+	float:left
+}
+.set-51-percent-for-width-if-portrait{
+	width:51%;
+	float:left
+}
+.set-52-percent-for-width-if-portrait{
+	width:52%;
+	float:left
+}
+.set-53-percent-for-width-if-portrait{
+	width:53%;
+	float:left
+}
+.set-54-percent-for-width-if-portrait{
+	width:54%;
+	float:left
+}
+.set-55-percent-for-width-if-portrait{
+	width:55%;
+	float:left
+}
+.set-56-percent-for-width-if-portrait{
+	width:56%;
+	float:left
+}
+.set-57-percent-for-width-if-portrait{
+	width:57%;
+	float:left
+}
+.set-58-percent-for-width-if-portrait{
+	width:58%;
+	float:left
+}
+.set-59-percent-for-width-if-portrait{
+	width:59%;
+	float:left
+}
+.set-60-percent-for-width-if-portrait{
+	width:60%;
+	float:left
+}
+.set-61-percent-for-width-if-portrait{
+	width:61%;
+	float:left
+}
+.set-62-percent-for-width-if-portrait{
+	width:62%;
+	float:left
+}
+.set-63-percent-for-width-if-portrait{
+	width:63%;
+	float:left
+}
+.set-64-percent-for-width-if-portrait{
+	width:64%;
+	float:left
+}
+.set-65-percent-for-width-if-portrait{
+	width:65%;
+	float:left
+}
+.set-66-percent-for-width-if-portrait{
+	width:66%;
+	float:left
+}
+.set-67-percent-for-width-if-portrait{
+	width:67%;
+	float:left
+}
+.set-68-percent-for-width-if-portrait{
+	width:68%;
+	float:left
+}
+.set-69-percent-for-width-if-portrait{
+	width:69%;
+	float:left
+}
+.set-70-percent-for-width-if-portrait{
+	width:70%;
+	float:left
+}
+.set-71-percent-for-width-if-portrait{
+	width:71%;
+	float:left
+}
+.set-72-percent-for-width-if-portrait{
+	width:72%;
+	float:left
+}
+.set-73-percent-for-width-if-portrait{
+	width:73%;
+	float:left
+}
+.set-74-percent-for-width-if-portrait{
+	width:74%;
+	float:left
+}
+.set-75-percent-for-width-if-portrait{
+	width:75%;
+	float:left
+}
+.set-76-percent-for-width-if-portrait{
+	width:76%;
+	float:left
+}
+.set-77-percent-for-width-if-portrait{
+	width:77%;
+	float:left
+}
+.set-78-percent-for-width-if-portrait{
+	width:78%;
+	float:left
+}
+.set-79-percent-for-width-if-portrait{
+	width:79%;
+	float:left
+}
+.set-80-percent-for-width-if-portrait{
+	width:80%;
+	float:left
+}
+.set-81-percent-for-width-if-portrait{
+	width:81%;
+	float:left
+}
+.set-82-percent-for-width-if-portrait{
+	width:82%;
+	float:left
+}
+.set-83-percent-for-width-if-portrait{
+	width:83%;
+	float:left
+}
+.set-84-percent-for-width-if-portrait{
+	width:84%;
+	float:left
+}
+.set-85-percent-for-width-if-portrait{
+	width:85%;
+	float:left
+}
+.set-86-percent-for-width-if-portrait{
+	width:86%;
+	float:left
+}
+.set-87-percent-for-width-if-portrait{
+	width:87%;
+	float:left
+}
+.set-88-percent-for-width-if-portrait{
+	width:88%;
+	float:left
+}
+.set-89-percent-for-width-if-portrait{
+	width:89%;
+	float:left
+}
+.set-90-percent-for-width-if-portrait{
+	width:90%;
+	float:left
+}
+.set-91-percent-for-width-if-portrait{
+	width:91%;
+	float:left
+}
+.set-92-percent-for-width-if-portrait{
+	width:92%;
+	float:left
+}
+.set-93-percent-for-width-if-portrait{
+	width:93%;
+	float:left
+}
+.set-94-percent-for-width-if-portrait{
+	width:94%;
+	float:left
+}
+.set-95-percent-for-width-if-portrait{
+	width:95%;
+	float:left
+}
+.set-96-percent-for-width-if-portrait{
+	width:96%;
+	float:left
+}
+.set-97-percent-for-width-if-portrait{
+	width:97%;
+	float:left
+}
+.set-98-percent-for-width-if-portrait{
+	width:98%;
+	float:left
+}
+.set-99-percent-for-width-if-portrait{
+	width:99%;
+	float:left
+}
+.set-100-percent-for-width-if-portrait{
+	width:100%;
+	float:left
+}
+.set-1-view-height-for-width-if-portrait{
+	width:1vh;
+	float:left
+}
+.set-2-view-height-for-width-if-portrait{
+	width:2vh;
+	float:left
+}
+.set-3-view-height-for-width-if-portrait{
+	width:3vh;
+	float:left
+}
+.set-4-view-height-for-width-if-portrait{
+	width:4vh;
+	float:left
+}
+.set-5-view-height-for-width-if-portrait{
+	width:5vh;
+	float:left
+}
+.set-6-view-height-for-width-if-portrait{
+	width:6vh;
+	float:left
+}
+.set-7-view-height-for-width-if-portrait{
+	width:7vh;
+	float:left
+}
+.set-8-view-height-for-width-if-portrait{
+	width:8vh;
+	float:left
+}
+.set-9-view-height-for-width-if-portrait{
+	width:9vh;
+	float:left
+}
+.set-10-view-height-for-width-if-portrait{
+	width:10vh;
+	float:left
+}
+.set-11-view-height-for-width-if-portrait{
+	width:11vh;
+	float:left
+}
+.set-12-view-height-for-width-if-portrait{
+	width:12vh;
+	float:left
+}
+.set-13-view-height-for-width-if-portrait{
+	width:13vh;
+	float:left
+}
+.set-14-view-height-for-width-if-portrait{
+	width:14vh;
+	float:left
+}
+.set-15-view-height-for-width-if-portrait{
+	width:15vh;
+	float:left
+}
+.set-16-view-height-for-width-if-portrait{
+	width:16vh;
+	float:left
+}
+.set-17-view-height-for-width-if-portrait{
+	width:17vh;
+	float:left
+}
+.set-18-view-height-for-width-if-portrait{
+	width:18vh;
+	float:left
+}
+.set-19-view-height-for-width-if-portrait{
+	width:19vh;
+	float:left
+}
+.set-20-view-height-for-width-if-portrait{
+	width:20vh;
+	float:left
+}
+.set-21-view-height-for-width-if-portrait{
+	width:21vh;
+	float:left
+}
+.set-22-view-height-for-width-if-portrait{
+	width:22vh;
+	float:left
+}
+.set-23-view-height-for-width-if-portrait{
+	width:23vh;
+	float:left
+}
+.set-24-view-height-for-width-if-portrait{
+	width:24vh;
+	float:left
+}
+.set-25-view-height-for-width-if-portrait{
+	width:25vh;
+	float:left
+}
+.set-26-view-height-for-width-if-portrait{
+	width:26vh;
+	float:left
+}
+.set-27-view-height-for-width-if-portrait{
+	width:27vh;
+	float:left
+}
+.set-28-view-height-for-width-if-portrait{
+	width:28vh;
+	float:left
+}
+.set-29-view-height-for-width-if-portrait{
+	width:29vh;
+	float:left
+}
+.set-30-view-height-for-width-if-portrait{
+	width:30vh;
+	float:left
+}
+.set-31-view-height-for-width-if-portrait{
+	width:31vh;
+	float:left
+}
+.set-32-view-height-for-width-if-portrait{
+	width:32vh;
+	float:left
+}
+.set-33-view-height-for-width-if-portrait{
+	width:33vh;
+	float:left
+}
+.set-34-view-height-for-width-if-portrait{
+	width:34vh;
+	float:left
+}
+.set-35-view-height-for-width-if-portrait{
+	width:35vh;
+	float:left
+}
+.set-36-view-height-for-width-if-portrait{
+	width:36vh;
+	float:left
+}
+.set-37-view-height-for-width-if-portrait{
+	width:37vh;
+	float:left
+}
+.set-38-view-height-for-width-if-portrait{
+	width:38vh;
+	float:left
+}
+.set-39-view-height-for-width-if-portrait{
+	width:39vh;
+	float:left
+}
+.set-40-view-height-for-width-if-portrait{
+	width:40vh;
+	float:left
+}
+.set-41-view-height-for-width-if-portrait{
+	width:41vh;
+	float:left
+}
+.set-42-view-height-for-width-if-portrait{
+	width:42vh;
+	float:left
+}
+.set-43-view-height-for-width-if-portrait{
+	width:43vh;
+	float:left
+}
+.set-44-view-height-for-width-if-portrait{
+	width:44vh;
+	float:left
+}
+.set-45-view-height-for-width-if-portrait{
+	width:45vh;
+	float:left
+}
+.set-46-view-height-for-width-if-portrait{
+	width:46vh;
+	float:left
+}
+.set-47-view-height-for-width-if-portrait{
+	width:47vh;
+	float:left
+}
+.set-48-view-height-for-width-if-portrait{
+	width:48vh;
+	float:left
+}
+.set-49-view-height-for-width-if-portrait{
+	width:49vh;
+	float:left
+}
+.set-50-view-height-for-width-if-portrait{
+	width:50vh;
+	float:left
+}
+.set-51-view-height-for-width-if-portrait{
+	width:51vh;
+	float:left
+}
+.set-52-view-height-for-width-if-portrait{
+	width:52vh;
+	float:left
+}
+.set-53-view-height-for-width-if-portrait{
+	width:53vh;
+	float:left
+}
+.set-54-view-height-for-width-if-portrait{
+	width:54vh;
+	float:left
+}
+.set-55-view-height-for-width-if-portrait{
+	width:55vh;
+	float:left
+}
+.set-56-view-height-for-width-if-portrait{
+	width:56vh;
+	float:left
+}
+.set-57-view-height-for-width-if-portrait{
+	width:57vh;
+	float:left
+}
+.set-58-view-height-for-width-if-portrait{
+	width:58vh;
+	float:left
+}
+.set-59-view-height-for-width-if-portrait{
+	width:59vh;
+	float:left
+}
+.set-60-view-height-for-width-if-portrait{
+	width:60vh;
+	float:left
+}
+.set-61-view-height-for-width-if-portrait{
+	width:61vh;
+	float:left
+}
+.set-62-view-height-for-width-if-portrait{
+	width:62vh;
+	float:left
+}
+.set-63-view-height-for-width-if-portrait{
+	width:63vh;
+	float:left
+}
+.set-64-view-height-for-width-if-portrait{
+	width:64vh;
+	float:left
+}
+.set-65-view-height-for-width-if-portrait{
+	width:65vh;
+	float:left
+}
+.set-66-view-height-for-width-if-portrait{
+	width:66vh;
+	float:left
+}
+.set-67-view-height-for-width-if-portrait{
+	width:67vh;
+	float:left
+}
+.set-68-view-height-for-width-if-portrait{
+	width:68vh;
+	float:left
+}
+.set-69-view-height-for-width-if-portrait{
+	width:69vh;
+	float:left
+}
+.set-70-view-height-for-width-if-portrait{
+	width:70vh;
+	float:left
+}
+.set-71-view-height-for-width-if-portrait{
+	width:71vh;
+	float:left
+}
+.set-72-view-height-for-width-if-portrait{
+	width:72vh;
+	float:left
+}
+.set-73-view-height-for-width-if-portrait{
+	width:73vh;
+	float:left
+}
+.set-74-view-height-for-width-if-portrait{
+	width:74vh;
+	float:left
+}
+.set-75-view-height-for-width-if-portrait{
+	width:75vh;
+	float:left
+}
+.set-76-view-height-for-width-if-portrait{
+	width:76vh;
+	float:left
+}
+.set-77-view-height-for-width-if-portrait{
+	width:77vh;
+	float:left
+}
+.set-78-view-height-for-width-if-portrait{
+	width:78vh;
+	float:left
+}
+.set-79-view-height-for-width-if-portrait{
+	width:79vh;
+	float:left
+}
+.set-80-view-height-for-width-if-portrait{
+	width:80vh;
+	float:left
+}
+.set-81-view-height-for-width-if-portrait{
+	width:81vh;
+	float:left
+}
+.set-82-view-height-for-width-if-portrait{
+	width:82vh;
+	float:left
+}
+.set-83-view-height-for-width-if-portrait{
+	width:83vh;
+	float:left
+}
+.set-84-view-height-for-width-if-portrait{
+	width:84vh;
+	float:left
+}
+.set-85-view-height-for-width-if-portrait{
+	width:85vh;
+	float:left
+}
+.set-86-view-height-for-width-if-portrait{
+	width:86vh;
+	float:left
+}
+.set-87-view-height-for-width-if-portrait{
+	width:87vh;
+	float:left
+}
+.set-88-view-height-for-width-if-portrait{
+	width:88vh;
+	float:left
+}
+.set-89-view-height-for-width-if-portrait{
+	width:89vh;
+	float:left
+}
+.set-90-view-height-for-width-if-portrait{
+	width:90vh;
+	float:left
+}
+.set-91-view-height-for-width-if-portrait{
+	width:91vh;
+	float:left
+}
+.set-92-view-height-for-width-if-portrait{
+	width:92vh;
+	float:left
+}
+.set-93-view-height-for-width-if-portrait{
+	width:93vh;
+	float:left
+}
+.set-94-view-height-for-width-if-portrait{
+	width:94vh;
+	float:left
+}
+.set-95-view-height-for-width-if-portrait{
+	width:95vh;
+	float:left
+}
+.set-96-view-height-for-width-if-portrait{
+	width:96vh;
+	float:left
+}
+.set-97-view-height-for-width-if-portrait{
+	width:97vh;
+	float:left
+}
+.set-98-view-height-for-width-if-portrait{
+	width:98vh;
+	float:left
+}
+.set-99-view-height-for-width-if-portrait{
+	width:99vh;
+	float:left
+}
+.set-100-view-height-for-width-if-portrait{
+	width:100vh;
+	float:left
+}
+.set-1-view-width-for-width-if-portrait{
+	width:1vw;
+	float:left
+}
+.set-2-view-width-for-width-if-portrait{
+	width:2vw;
+	float:left
+}
+.set-3-view-width-for-width-if-portrait{
+	width:3vw;
+	float:left
+}
+.set-4-view-width-for-width-if-portrait{
+	width:4vw;
+	float:left
+}
+.set-5-view-width-for-width-if-portrait{
+	width:5vw;
+	float:left
+}
+.set-6-view-width-for-width-if-portrait{
+	width:6vw;
+	float:left
+}
+.set-7-view-width-for-width-if-portrait{
+	width:7vw;
+	float:left
+}
+.set-8-view-width-for-width-if-portrait{
+	width:8vw;
+	float:left
+}
+.set-9-view-width-for-width-if-portrait{
+	width:9vw;
+	float:left
+}
+.set-10-view-width-for-width-if-portrait{
+	width:10vw;
+	float:left
+}
+.set-11-view-width-for-width-if-portrait{
+	width:11vw;
+	float:left
+}
+.set-12-view-width-for-width-if-portrait{
+	width:12vw;
+	float:left
+}
+.set-13-view-width-for-width-if-portrait{
+	width:13vw;
+	float:left
+}
+.set-14-view-width-for-width-if-portrait{
+	width:14vw;
+	float:left
+}
+.set-15-view-width-for-width-if-portrait{
+	width:15vw;
+	float:left
+}
+.set-16-view-width-for-width-if-portrait{
+	width:16vw;
+	float:left
+}
+.set-17-view-width-for-width-if-portrait{
+	width:17vw;
+	float:left
+}
+.set-18-view-width-for-width-if-portrait{
+	width:18vw;
+	float:left
+}
+.set-19-view-width-for-width-if-portrait{
+	width:19vw;
+	float:left
+}
+.set-20-view-width-for-width-if-portrait{
+	width:20vw;
+	float:left
+}
+.set-21-view-width-for-width-if-portrait{
+	width:21vw;
+	float:left
+}
+.set-22-view-width-for-width-if-portrait{
+	width:22vw;
+	float:left
+}
+.set-23-view-width-for-width-if-portrait{
+	width:23vw;
+	float:left
+}
+.set-24-view-width-for-width-if-portrait{
+	width:24vw;
+	float:left
+}
+.set-25-view-width-for-width-if-portrait{
+	width:25vw;
+	float:left
+}
+.set-26-view-width-for-width-if-portrait{
+	width:26vw;
+	float:left
+}
+.set-27-view-width-for-width-if-portrait{
+	width:27vw;
+	float:left
+}
+.set-28-view-width-for-width-if-portrait{
+	width:28vw;
+	float:left
+}
+.set-29-view-width-for-width-if-portrait{
+	width:29vw;
+	float:left
+}
+.set-30-view-width-for-width-if-portrait{
+	width:30vw;
+	float:left
+}
+.set-31-view-width-for-width-if-portrait{
+	width:31vw;
+	float:left
+}
+.set-32-view-width-for-width-if-portrait{
+	width:32vw;
+	float:left
+}
+.set-33-view-width-for-width-if-portrait{
+	width:33vw;
+	float:left
+}
+.set-34-view-width-for-width-if-portrait{
+	width:34vw;
+	float:left
+}
+.set-35-view-width-for-width-if-portrait{
+	width:35vw;
+	float:left
+}
+.set-36-view-width-for-width-if-portrait{
+	width:36vw;
+	float:left
+}
+.set-37-view-width-for-width-if-portrait{
+	width:37vw;
+	float:left
+}
+.set-38-view-width-for-width-if-portrait{
+	width:38vw;
+	float:left
+}
+.set-39-view-width-for-width-if-portrait{
+	width:39vw;
+	float:left
+}
+.set-40-view-width-for-width-if-portrait{
+	width:40vw;
+	float:left
+}
+.set-41-view-width-for-width-if-portrait{
+	width:41vw;
+	float:left
+}
+.set-42-view-width-for-width-if-portrait{
+	width:42vw;
+	float:left
+}
+.set-43-view-width-for-width-if-portrait{
+	width:43vw;
+	float:left
+}
+.set-44-view-width-for-width-if-portrait{
+	width:44vw;
+	float:left
+}
+.set-45-view-width-for-width-if-portrait{
+	width:45vw;
+	float:left
+}
+.set-46-view-width-for-width-if-portrait{
+	width:46vw;
+	float:left
+}
+.set-47-view-width-for-width-if-portrait{
+	width:47vw;
+	float:left
+}
+.set-48-view-width-for-width-if-portrait{
+	width:48vw;
+	float:left
+}
+.set-49-view-width-for-width-if-portrait{
+	width:49vw;
+	float:left
+}
+.set-50-view-width-for-width-if-portrait{
+	width:50vw;
+	float:left
+}
+.set-51-view-width-for-width-if-portrait{
+	width:51vw;
+	float:left
+}
+.set-52-view-width-for-width-if-portrait{
+	width:52vw;
+	float:left
+}
+.set-53-view-width-for-width-if-portrait{
+	width:53vw;
+	float:left
+}
+.set-54-view-width-for-width-if-portrait{
+	width:54vw;
+	float:left
+}
+.set-55-view-width-for-width-if-portrait{
+	width:55vw;
+	float:left
+}
+.set-56-view-width-for-width-if-portrait{
+	width:56vw;
+	float:left
+}
+.set-57-view-width-for-width-if-portrait{
+	width:57vw;
+	float:left
+}
+.set-58-view-width-for-width-if-portrait{
+	width:58vw;
+	float:left
+}
+.set-59-view-width-for-width-if-portrait{
+	width:59vw;
+	float:left
+}
+.set-60-view-width-for-width-if-portrait{
+	width:60vw;
+	float:left
+}
+.set-61-view-width-for-width-if-portrait{
+	width:61vw;
+	float:left
+}
+.set-62-view-width-for-width-if-portrait{
+	width:62vw;
+	float:left
+}
+.set-63-view-width-for-width-if-portrait{
+	width:63vw;
+	float:left
+}
+.set-64-view-width-for-width-if-portrait{
+	width:64vw;
+	float:left
+}
+.set-65-view-width-for-width-if-portrait{
+	width:65vw;
+	float:left
+}
+.set-66-view-width-for-width-if-portrait{
+	width:66vw;
+	float:left
+}
+.set-67-view-width-for-width-if-portrait{
+	width:67vw;
+	float:left
+}
+.set-68-view-width-for-width-if-portrait{
+	width:68vw;
+	float:left
+}
+.set-69-view-width-for-width-if-portrait{
+	width:69vw;
+	float:left
+}
+.set-70-view-width-for-width-if-portrait{
+	width:70vw;
+	float:left
+}
+.set-71-view-width-for-width-if-portrait{
+	width:71vw;
+	float:left
+}
+.set-72-view-width-for-width-if-portrait{
+	width:72vw;
+	float:left
+}
+.set-73-view-width-for-width-if-portrait{
+	width:73vw;
+	float:left
+}
+.set-74-view-width-for-width-if-portrait{
+	width:74vw;
+	float:left
+}
+.set-75-view-width-for-width-if-portrait{
+	width:75vw;
+	float:left
+}
+.set-76-view-width-for-width-if-portrait{
+	width:76vw;
+	float:left
+}
+.set-77-view-width-for-width-if-portrait{
+	width:77vw;
+	float:left
+}
+.set-78-view-width-for-width-if-portrait{
+	width:78vw;
+	float:left
+}
+.set-79-view-width-for-width-if-portrait{
+	width:79vw;
+	float:left
+}
+.set-80-view-width-for-width-if-portrait{
+	width:80vw;
+	float:left
+}
+.set-81-view-width-for-width-if-portrait{
+	width:81vw;
+	float:left
+}
+.set-82-view-width-for-width-if-portrait{
+	width:82vw;
+	float:left
+}
+.set-83-view-width-for-width-if-portrait{
+	width:83vw;
+	float:left
+}
+.set-84-view-width-for-width-if-portrait{
+	width:84vw;
+	float:left
+}
+.set-85-view-width-for-width-if-portrait{
+	width:85vw;
+	float:left
+}
+.set-86-view-width-for-width-if-portrait{
+	width:86vw;
+	float:left
+}
+.set-87-view-width-for-width-if-portrait{
+	width:87vw;
+	float:left
+}
+.set-88-view-width-for-width-if-portrait{
+	width:88vw;
+	float:left
+}
+.set-89-view-width-for-width-if-portrait{
+	width:89vw;
+	float:left
+}
+.set-90-view-width-for-width-if-portrait{
+	width:90vw;
+	float:left
+}
+.set-91-view-width-for-width-if-portrait{
+	width:91vw;
+	float:left
+}
+.set-92-view-width-for-width-if-portrait{
+	width:92vw;
+	float:left
+}
+.set-93-view-width-for-width-if-portrait{
+	width:93vw;
+	float:left
+}
+.set-94-view-width-for-width-if-portrait{
+	width:94vw;
+	float:left
+}
+.set-95-view-width-for-width-if-portrait{
+	width:95vw;
+	float:left
+}
+.set-96-view-width-for-width-if-portrait{
+	width:96vw;
+	float:left
+}
+.set-97-view-width-for-width-if-portrait{
+	width:97vw;
+	float:left
+}
+.set-98-view-width-for-width-if-portrait{
+	width:98vw;
+	float:left
+}
+.set-99-view-width-for-width-if-portrait{
+	width:99vw;
+	float:left
+}
+.set-100-view-width-for-width-if-portrait{
+	width:100vw;
+	float:left
+}
+.set-1-percent-for-height-if-portrait{
+	height:1%;
+	float:left
+}
+.set-2-percent-for-height-if-portrait{
+	height:2%;
+	float:left
+}
+.set-3-percent-for-height-if-portrait{
+	height:3%;
+	float:left
+}
+.set-4-percent-for-height-if-portrait{
+	height:4%;
+	float:left
+}
+.set-5-percent-for-height-if-portrait{
+	height:5%;
+	float:left
+}
+.set-6-percent-for-height-if-portrait{
+	height:6%;
+	float:left
+}
+.set-7-percent-for-height-if-portrait{
+	height:7%;
+	float:left
+}
+.set-8-percent-for-height-if-portrait{
+	height:8%;
+	float:left
+}
+.set-9-percent-for-height-if-portrait{
+	height:9%;
+	float:left
+}
+.set-10-percent-for-height-if-portrait{
+	height:10%;
+	float:left
+}
+.set-11-percent-for-height-if-portrait{
+	height:11%;
+	float:left
+}
+.set-12-percent-for-height-if-portrait{
+	height:12%;
+	float:left
+}
+.set-13-percent-for-height-if-portrait{
+	height:13%;
+	float:left
+}
+.set-14-percent-for-height-if-portrait{
+	height:14%;
+	float:left
+}
+.set-15-percent-for-height-if-portrait{
+	height:15%;
+	float:left
+}
+.set-16-percent-for-height-if-portrait{
+	height:16%;
+	float:left
+}
+.set-17-percent-for-height-if-portrait{
+	height:17%;
+	float:left
+}
+.set-18-percent-for-height-if-portrait{
+	height:18%;
+	float:left
+}
+.set-19-percent-for-height-if-portrait{
+	height:19%;
+	float:left
+}
+.set-20-percent-for-height-if-portrait{
+	height:20%;
+	float:left
+}
+.set-21-percent-for-height-if-portrait{
+	height:21%;
+	float:left
+}
+.set-22-percent-for-height-if-portrait{
+	height:22%;
+	float:left
+}
+.set-23-percent-for-height-if-portrait{
+	height:23%;
+	float:left
+}
+.set-24-percent-for-height-if-portrait{
+	height:24%;
+	float:left
+}
+.set-25-percent-for-height-if-portrait{
+	height:25%;
+	float:left
+}
+.set-26-percent-for-height-if-portrait{
+	height:26%;
+	float:left
+}
+.set-27-percent-for-height-if-portrait{
+	height:27%;
+	float:left
+}
+.set-28-percent-for-height-if-portrait{
+	height:28%;
+	float:left
+}
+.set-29-percent-for-height-if-portrait{
+	height:29%;
+	float:left
+}
+.set-30-percent-for-height-if-portrait{
+	height:30%;
+	float:left
+}
+.set-31-percent-for-height-if-portrait{
+	height:31%;
+	float:left
+}
+.set-32-percent-for-height-if-portrait{
+	height:32%;
+	float:left
+}
+.set-33-percent-for-height-if-portrait{
+	height:33%;
+	float:left
+}
+.set-34-percent-for-height-if-portrait{
+	height:34%;
+	float:left
+}
+.set-35-percent-for-height-if-portrait{
+	height:35%;
+	float:left
+}
+.set-36-percent-for-height-if-portrait{
+	height:36%;
+	float:left
+}
+.set-37-percent-for-height-if-portrait{
+	height:37%;
+	float:left
+}
+.set-38-percent-for-height-if-portrait{
+	height:38%;
+	float:left
+}
+.set-39-percent-for-height-if-portrait{
+	height:39%;
+	float:left
+}
+.set-40-percent-for-height-if-portrait{
+	height:40%;
+	float:left
+}
+.set-41-percent-for-height-if-portrait{
+	height:41%;
+	float:left
+}
+.set-42-percent-for-height-if-portrait{
+	height:42%;
+	float:left
+}
+.set-43-percent-for-height-if-portrait{
+	height:43%;
+	float:left
+}
+.set-44-percent-for-height-if-portrait{
+	height:44%;
+	float:left
+}
+.set-45-percent-for-height-if-portrait{
+	height:45%;
+	float:left
+}
+.set-46-percent-for-height-if-portrait{
+	height:46%;
+	float:left
+}
+.set-47-percent-for-height-if-portrait{
+	height:47%;
+	float:left
+}
+.set-48-percent-for-height-if-portrait{
+	height:48%;
+	float:left
+}
+.set-49-percent-for-height-if-portrait{
+	height:49%;
+	float:left
+}
+.set-50-percent-for-height-if-portrait{
+	height:50%;
+	float:left
+}
+.set-51-percent-for-height-if-portrait{
+	height:51%;
+	float:left
+}
+.set-52-percent-for-height-if-portrait{
+	height:52%;
+	float:left
+}
+.set-53-percent-for-height-if-portrait{
+	height:53%;
+	float:left
+}
+.set-54-percent-for-height-if-portrait{
+	height:54%;
+	float:left
+}
+.set-55-percent-for-height-if-portrait{
+	height:55%;
+	float:left
+}
+.set-56-percent-for-height-if-portrait{
+	height:56%;
+	float:left
+}
+.set-57-percent-for-height-if-portrait{
+	height:57%;
+	float:left
+}
+.set-58-percent-for-height-if-portrait{
+	height:58%;
+	float:left
+}
+.set-59-percent-for-height-if-portrait{
+	height:59%;
+	float:left
+}
+.set-60-percent-for-height-if-portrait{
+	height:60%;
+	float:left
+}
+.set-61-percent-for-height-if-portrait{
+	height:61%;
+	float:left
+}
+.set-62-percent-for-height-if-portrait{
+	height:62%;
+	float:left
+}
+.set-63-percent-for-height-if-portrait{
+	height:63%;
+	float:left
+}
+.set-64-percent-for-height-if-portrait{
+	height:64%;
+	float:left
+}
+.set-65-percent-for-height-if-portrait{
+	height:65%;
+	float:left
+}
+.set-66-percent-for-height-if-portrait{
+	height:66%;
+	float:left
+}
+.set-67-percent-for-height-if-portrait{
+	height:67%;
+	float:left
+}
+.set-68-percent-for-height-if-portrait{
+	height:68%;
+	float:left
+}
+.set-69-percent-for-height-if-portrait{
+	height:69%;
+	float:left
+}
+.set-70-percent-for-height-if-portrait{
+	height:70%;
+	float:left
+}
+.set-71-percent-for-height-if-portrait{
+	height:71%;
+	float:left
+}
+.set-72-percent-for-height-if-portrait{
+	height:72%;
+	float:left
+}
+.set-73-percent-for-height-if-portrait{
+	height:73%;
+	float:left
+}
+.set-74-percent-for-height-if-portrait{
+	height:74%;
+	float:left
+}
+.set-75-percent-for-height-if-portrait{
+	height:75%;
+	float:left
+}
+.set-76-percent-for-height-if-portrait{
+	height:76%;
+	float:left
+}
+.set-77-percent-for-height-if-portrait{
+	height:77%;
+	float:left
+}
+.set-78-percent-for-height-if-portrait{
+	height:78%;
+	float:left
+}
+.set-79-percent-for-height-if-portrait{
+	height:79%;
+	float:left
+}
+.set-80-percent-for-height-if-portrait{
+	height:80%;
+	float:left
+}
+.set-81-percent-for-height-if-portrait{
+	height:81%;
+	float:left
+}
+.set-82-percent-for-height-if-portrait{
+	height:82%;
+	float:left
+}
+.set-83-percent-for-height-if-portrait{
+	height:83%;
+	float:left
+}
+.set-84-percent-for-height-if-portrait{
+	height:84%;
+	float:left
+}
+.set-85-percent-for-height-if-portrait{
+	height:85%;
+	float:left
+}
+.set-86-percent-for-height-if-portrait{
+	height:86%;
+	float:left
+}
+.set-87-percent-for-height-if-portrait{
+	height:87%;
+	float:left
+}
+.set-88-percent-for-height-if-portrait{
+	height:88%;
+	float:left
+}
+.set-89-percent-for-height-if-portrait{
+	height:89%;
+	float:left
+}
+.set-90-percent-for-height-if-portrait{
+	height:90%;
+	float:left
+}
+.set-91-percent-for-height-if-portrait{
+	height:91%;
+	float:left
+}
+.set-92-percent-for-height-if-portrait{
+	height:92%;
+	float:left
+}
+.set-93-percent-for-height-if-portrait{
+	height:93%;
+	float:left
+}
+.set-94-percent-for-height-if-portrait{
+	height:94%;
+	float:left
+}
+.set-95-percent-for-height-if-portrait{
+	height:95%;
+	float:left
+}
+.set-96-percent-for-height-if-portrait{
+	height:96%;
+	float:left
+}
+.set-97-percent-for-height-if-portrait{
+	height:97%;
+	float:left
+}
+.set-98-percent-for-height-if-portrait{
+	height:98%;
+	float:left
+}
+.set-99-percent-for-height-if-portrait{
+	height:99%;
+	float:left
+}
+.set-100-percent-for-height-if-portrait{
+	height:100%;
+	float:left
+}
+.set-1-view-height-for-height-if-portrait{
+	height:1vh;
+	float:left
+}
+.set-2-view-height-for-height-if-portrait{
+	height:2vh;
+	float:left
+}
+.set-3-view-height-for-height-if-portrait{
+	height:3vh;
+	float:left
+}
+.set-4-view-height-for-height-if-portrait{
+	height:4vh;
+	float:left
+}
+.set-5-view-height-for-height-if-portrait{
+	height:5vh;
+	float:left
+}
+.set-6-view-height-for-height-if-portrait{
+	height:6vh;
+	float:left
+}
+.set-7-view-height-for-height-if-portrait{
+	height:7vh;
+	float:left
+}
+.set-8-view-height-for-height-if-portrait{
+	height:8vh;
+	float:left
+}
+.set-9-view-height-for-height-if-portrait{
+	height:9vh;
+	float:left
+}
+.set-10-view-height-for-height-if-portrait{
+	height:10vh;
+	float:left
+}
+.set-11-view-height-for-height-if-portrait{
+	height:11vh;
+	float:left
+}
+.set-12-view-height-for-height-if-portrait{
+	height:12vh;
+	float:left
+}
+.set-13-view-height-for-height-if-portrait{
+	height:13vh;
+	float:left
+}
+.set-14-view-height-for-height-if-portrait{
+	height:14vh;
+	float:left
+}
+.set-15-view-height-for-height-if-portrait{
+	height:15vh;
+	float:left
+}
+.set-16-view-height-for-height-if-portrait{
+	height:16vh;
+	float:left
+}
+.set-17-view-height-for-height-if-portrait{
+	height:17vh;
+	float:left
+}
+.set-18-view-height-for-height-if-portrait{
+	height:18vh;
+	float:left
+}
+.set-19-view-height-for-height-if-portrait{
+	height:19vh;
+	float:left
+}
+.set-20-view-height-for-height-if-portrait{
+	height:20vh;
+	float:left
+}
+.set-21-view-height-for-height-if-portrait{
+	height:21vh;
+	float:left
+}
+.set-22-view-height-for-height-if-portrait{
+	height:22vh;
+	float:left
+}
+.set-23-view-height-for-height-if-portrait{
+	height:23vh;
+	float:left
+}
+.set-24-view-height-for-height-if-portrait{
+	height:24vh;
+	float:left
+}
+.set-25-view-height-for-height-if-portrait{
+	height:25vh;
+	float:left
+}
+.set-26-view-height-for-height-if-portrait{
+	height:26vh;
+	float:left
+}
+.set-27-view-height-for-height-if-portrait{
+	height:27vh;
+	float:left
+}
+.set-28-view-height-for-height-if-portrait{
+	height:28vh;
+	float:left
+}
+.set-29-view-height-for-height-if-portrait{
+	height:29vh;
+	float:left
+}
+.set-30-view-height-for-height-if-portrait{
+	height:30vh;
+	float:left
+}
+.set-31-view-height-for-height-if-portrait{
+	height:31vh;
+	float:left
+}
+.set-32-view-height-for-height-if-portrait{
+	height:32vh;
+	float:left
+}
+.set-33-view-height-for-height-if-portrait{
+	height:33vh;
+	float:left
+}
+.set-34-view-height-for-height-if-portrait{
+	height:34vh;
+	float:left
+}
+.set-35-view-height-for-height-if-portrait{
+	height:35vh;
+	float:left
+}
+.set-36-view-height-for-height-if-portrait{
+	height:36vh;
+	float:left
+}
+.set-37-view-height-for-height-if-portrait{
+	height:37vh;
+	float:left
+}
+.set-38-view-height-for-height-if-portrait{
+	height:38vh;
+	float:left
+}
+.set-39-view-height-for-height-if-portrait{
+	height:39vh;
+	float:left
+}
+.set-40-view-height-for-height-if-portrait{
+	height:40vh;
+	float:left
+}
+.set-41-view-height-for-height-if-portrait{
+	height:41vh;
+	float:left
+}
+.set-42-view-height-for-height-if-portrait{
+	height:42vh;
+	float:left
+}
+.set-43-view-height-for-height-if-portrait{
+	height:43vh;
+	float:left
+}
+.set-44-view-height-for-height-if-portrait{
+	height:44vh;
+	float:left
+}
+.set-45-view-height-for-height-if-portrait{
+	height:45vh;
+	float:left
+}
+.set-46-view-height-for-height-if-portrait{
+	height:46vh;
+	float:left
+}
+.set-47-view-height-for-height-if-portrait{
+	height:47vh;
+	float:left
+}
+.set-48-view-height-for-height-if-portrait{
+	height:48vh;
+	float:left
+}
+.set-49-view-height-for-height-if-portrait{
+	height:49vh;
+	float:left
+}
+.set-50-view-height-for-height-if-portrait{
+	height:50vh;
+	float:left
+}
+.set-51-view-height-for-height-if-portrait{
+	height:51vh;
+	float:left
+}
+.set-52-view-height-for-height-if-portrait{
+	height:52vh;
+	float:left
+}
+.set-53-view-height-for-height-if-portrait{
+	height:53vh;
+	float:left
+}
+.set-54-view-height-for-height-if-portrait{
+	height:54vh;
+	float:left
+}
+.set-55-view-height-for-height-if-portrait{
+	height:55vh;
+	float:left
+}
+.set-56-view-height-for-height-if-portrait{
+	height:56vh;
+	float:left
+}
+.set-57-view-height-for-height-if-portrait{
+	height:57vh;
+	float:left
+}
+.set-58-view-height-for-height-if-portrait{
+	height:58vh;
+	float:left
+}
+.set-59-view-height-for-height-if-portrait{
+	height:59vh;
+	float:left
+}
+.set-60-view-height-for-height-if-portrait{
+	height:60vh;
+	float:left
+}
+.set-61-view-height-for-height-if-portrait{
+	height:61vh;
+	float:left
+}
+.set-62-view-height-for-height-if-portrait{
+	height:62vh;
+	float:left
+}
+.set-63-view-height-for-height-if-portrait{
+	height:63vh;
+	float:left
+}
+.set-64-view-height-for-height-if-portrait{
+	height:64vh;
+	float:left
+}
+.set-65-view-height-for-height-if-portrait{
+	height:65vh;
+	float:left
+}
+.set-66-view-height-for-height-if-portrait{
+	height:66vh;
+	float:left
+}
+.set-67-view-height-for-height-if-portrait{
+	height:67vh;
+	float:left
+}
+.set-68-view-height-for-height-if-portrait{
+	height:68vh;
+	float:left
+}
+.set-69-view-height-for-height-if-portrait{
+	height:69vh;
+	float:left
+}
+.set-70-view-height-for-height-if-portrait{
+	height:70vh;
+	float:left
+}
+.set-71-view-height-for-height-if-portrait{
+	height:71vh;
+	float:left
+}
+.set-72-view-height-for-height-if-portrait{
+	height:72vh;
+	float:left
+}
+.set-73-view-height-for-height-if-portrait{
+	height:73vh;
+	float:left
+}
+.set-74-view-height-for-height-if-portrait{
+	height:74vh;
+	float:left
+}
+.set-75-view-height-for-height-if-portrait{
+	height:75vh;
+	float:left
+}
+.set-76-view-height-for-height-if-portrait{
+	height:76vh;
+	float:left
+}
+.set-77-view-height-for-height-if-portrait{
+	height:77vh;
+	float:left
+}
+.set-78-view-height-for-height-if-portrait{
+	height:78vh;
+	float:left
+}
+.set-79-view-height-for-height-if-portrait{
+	height:79vh;
+	float:left
+}
+.set-80-view-height-for-height-if-portrait{
+	height:80vh;
+	float:left
+}
+.set-81-view-height-for-height-if-portrait{
+	height:81vh;
+	float:left
+}
+.set-82-view-height-for-height-if-portrait{
+	height:82vh;
+	float:left
+}
+.set-83-view-height-for-height-if-portrait{
+	height:83vh;
+	float:left
+}
+.set-84-view-height-for-height-if-portrait{
+	height:84vh;
+	float:left
+}
+.set-85-view-height-for-height-if-portrait{
+	height:85vh;
+	float:left
+}
+.set-86-view-height-for-height-if-portrait{
+	height:86vh;
+	float:left
+}
+.set-87-view-height-for-height-if-portrait{
+	height:87vh;
+	float:left
+}
+.set-88-view-height-for-height-if-portrait{
+	height:88vh;
+	float:left
+}
+.set-89-view-height-for-height-if-portrait{
+	height:89vh;
+	float:left
+}
+.set-90-view-height-for-height-if-portrait{
+	height:90vh;
+	float:left
+}
+.set-91-view-height-for-height-if-portrait{
+	height:91vh;
+	float:left
+}
+.set-92-view-height-for-height-if-portrait{
+	height:92vh;
+	float:left
+}
+.set-93-view-height-for-height-if-portrait{
+	height:93vh;
+	float:left
+}
+.set-94-view-height-for-height-if-portrait{
+	height:94vh;
+	float:left
+}
+.set-95-view-height-for-height-if-portrait{
+	height:95vh;
+	float:left
+}
+.set-96-view-height-for-height-if-portrait{
+	height:96vh;
+	float:left
+}
+.set-97-view-height-for-height-if-portrait{
+	height:97vh;
+	float:left
+}
+.set-98-view-height-for-height-if-portrait{
+	height:98vh;
+	float:left
+}
+.set-99-view-height-for-height-if-portrait{
+	height:99vh;
+	float:left
+}
+.set-100-view-height-for-height-if-portrait{
+	height:100vh;
+	float:left
+}
+.set-1-view-width-for-height-if-portrait{
+	height:1vw;
+	float:left
+}
+.set-2-view-width-for-height-if-portrait{
+	height:2vw;
+	float:left
+}
+.set-3-view-width-for-height-if-portrait{
+	height:3vw;
+	float:left
+}
+.set-4-view-width-for-height-if-portrait{
+	height:4vw;
+	float:left
+}
+.set-5-view-width-for-height-if-portrait{
+	height:5vw;
+	float:left
+}
+.set-6-view-width-for-height-if-portrait{
+	height:6vw;
+	float:left
+}
+.set-7-view-width-for-height-if-portrait{
+	height:7vw;
+	float:left
+}
+.set-8-view-width-for-height-if-portrait{
+	height:8vw;
+	float:left
+}
+.set-9-view-width-for-height-if-portrait{
+	height:9vw;
+	float:left
+}
+.set-10-view-width-for-height-if-portrait{
+	height:10vw;
+	float:left
+}
+.set-11-view-width-for-height-if-portrait{
+	height:11vw;
+	float:left
+}
+.set-12-view-width-for-height-if-portrait{
+	height:12vw;
+	float:left
+}
+.set-13-view-width-for-height-if-portrait{
+	height:13vw;
+	float:left
+}
+.set-14-view-width-for-height-if-portrait{
+	height:14vw;
+	float:left
+}
+.set-15-view-width-for-height-if-portrait{
+	height:15vw;
+	float:left
+}
+.set-16-view-width-for-height-if-portrait{
+	height:16vw;
+	float:left
+}
+.set-17-view-width-for-height-if-portrait{
+	height:17vw;
+	float:left
+}
+.set-18-view-width-for-height-if-portrait{
+	height:18vw;
+	float:left
+}
+.set-19-view-width-for-height-if-portrait{
+	height:19vw;
+	float:left
+}
+.set-20-view-width-for-height-if-portrait{
+	height:20vw;
+	float:left
+}
+.set-21-view-width-for-height-if-portrait{
+	height:21vw;
+	float:left
+}
+.set-22-view-width-for-height-if-portrait{
+	height:22vw;
+	float:left
+}
+.set-23-view-width-for-height-if-portrait{
+	height:23vw;
+	float:left
+}
+.set-24-view-width-for-height-if-portrait{
+	height:24vw;
+	float:left
+}
+.set-25-view-width-for-height-if-portrait{
+	height:25vw;
+	float:left
+}
+.set-26-view-width-for-height-if-portrait{
+	height:26vw;
+	float:left
+}
+.set-27-view-width-for-height-if-portrait{
+	height:27vw;
+	float:left
+}
+.set-28-view-width-for-height-if-portrait{
+	height:28vw;
+	float:left
+}
+.set-29-view-width-for-height-if-portrait{
+	height:29vw;
+	float:left
+}
+.set-30-view-width-for-height-if-portrait{
+	height:30vw;
+	float:left
+}
+.set-31-view-width-for-height-if-portrait{
+	height:31vw;
+	float:left
+}
+.set-32-view-width-for-height-if-portrait{
+	height:32vw;
+	float:left
+}
+.set-33-view-width-for-height-if-portrait{
+	height:33vw;
+	float:left
+}
+.set-34-view-width-for-height-if-portrait{
+	height:34vw;
+	float:left
+}
+.set-35-view-width-for-height-if-portrait{
+	height:35vw;
+	float:left
+}
+.set-36-view-width-for-height-if-portrait{
+	height:36vw;
+	float:left
+}
+.set-37-view-width-for-height-if-portrait{
+	height:37vw;
+	float:left
+}
+.set-38-view-width-for-height-if-portrait{
+	height:38vw;
+	float:left
+}
+.set-39-view-width-for-height-if-portrait{
+	height:39vw;
+	float:left
+}
+.set-40-view-width-for-height-if-portrait{
+	height:40vw;
+	float:left
+}
+.set-41-view-width-for-height-if-portrait{
+	height:41vw;
+	float:left
+}
+.set-42-view-width-for-height-if-portrait{
+	height:42vw;
+	float:left
+}
+.set-43-view-width-for-height-if-portrait{
+	height:43vw;
+	float:left
+}
+.set-44-view-width-for-height-if-portrait{
+	height:44vw;
+	float:left
+}
+.set-45-view-width-for-height-if-portrait{
+	height:45vw;
+	float:left
+}
+.set-46-view-width-for-height-if-portrait{
+	height:46vw;
+	float:left
+}
+.set-47-view-width-for-height-if-portrait{
+	height:47vw;
+	float:left
+}
+.set-48-view-width-for-height-if-portrait{
+	height:48vw;
+	float:left
+}
+.set-49-view-width-for-height-if-portrait{
+	height:49vw;
+	float:left
+}
+.set-50-view-width-for-height-if-portrait{
+	height:50vw;
+	float:left
+}
+.set-51-view-width-for-height-if-portrait{
+	height:51vw;
+	float:left
+}
+.set-52-view-width-for-height-if-portrait{
+	height:52vw;
+	float:left
+}
+.set-53-view-width-for-height-if-portrait{
+	height:53vw;
+	float:left
+}
+.set-54-view-width-for-height-if-portrait{
+	height:54vw;
+	float:left
+}
+.set-55-view-width-for-height-if-portrait{
+	height:55vw;
+	float:left
+}
+.set-56-view-width-for-height-if-portrait{
+	height:56vw;
+	float:left
+}
+.set-57-view-width-for-height-if-portrait{
+	height:57vw;
+	float:left
+}
+.set-58-view-width-for-height-if-portrait{
+	height:58vw;
+	float:left
+}
+.set-59-view-width-for-height-if-portrait{
+	height:59vw;
+	float:left
+}
+.set-60-view-width-for-height-if-portrait{
+	height:60vw;
+	float:left
+}
+.set-61-view-width-for-height-if-portrait{
+	height:61vw;
+	float:left
+}
+.set-62-view-width-for-height-if-portrait{
+	height:62vw;
+	float:left
+}
+.set-63-view-width-for-height-if-portrait{
+	height:63vw;
+	float:left
+}
+.set-64-view-width-for-height-if-portrait{
+	height:64vw;
+	float:left
+}
+.set-65-view-width-for-height-if-portrait{
+	height:65vw;
+	float:left
+}
+.set-66-view-width-for-height-if-portrait{
+	height:66vw;
+	float:left
+}
+.set-67-view-width-for-height-if-portrait{
+	height:67vw;
+	float:left
+}
+.set-68-view-width-for-height-if-portrait{
+	height:68vw;
+	float:left
+}
+.set-69-view-width-for-height-if-portrait{
+	height:69vw;
+	float:left
+}
+.set-70-view-width-for-height-if-portrait{
+	height:70vw;
+	float:left
+}
+.set-71-view-width-for-height-if-portrait{
+	height:71vw;
+	float:left
+}
+.set-72-view-width-for-height-if-portrait{
+	height:72vw;
+	float:left
+}
+.set-73-view-width-for-height-if-portrait{
+	height:73vw;
+	float:left
+}
+.set-74-view-width-for-height-if-portrait{
+	height:74vw;
+	float:left
+}
+.set-75-view-width-for-height-if-portrait{
+	height:75vw;
+	float:left
+}
+.set-76-view-width-for-height-if-portrait{
+	height:76vw;
+	float:left
+}
+.set-77-view-width-for-height-if-portrait{
+	height:77vw;
+	float:left
+}
+.set-78-view-width-for-height-if-portrait{
+	height:78vw;
+	float:left
+}
+.set-79-view-width-for-height-if-portrait{
+	height:79vw;
+	float:left
+}
+.set-80-view-width-for-height-if-portrait{
+	height:80vw;
+	float:left
+}
+.set-81-view-width-for-height-if-portrait{
+	height:81vw;
+	float:left
+}
+.set-82-view-width-for-height-if-portrait{
+	height:82vw;
+	float:left
+}
+.set-83-view-width-for-height-if-portrait{
+	height:83vw;
+	float:left
+}
+.set-84-view-width-for-height-if-portrait{
+	height:84vw;
+	float:left
+}
+.set-85-view-width-for-height-if-portrait{
+	height:85vw;
+	float:left
+}
+.set-86-view-width-for-height-if-portrait{
+	height:86vw;
+	float:left
+}
+.set-87-view-width-for-height-if-portrait{
+	height:87vw;
+	float:left
+}
+.set-88-view-width-for-height-if-portrait{
+	height:88vw;
+	float:left
+}
+.set-89-view-width-for-height-if-portrait{
+	height:89vw;
+	float:left
+}
+.set-90-view-width-for-height-if-portrait{
+	height:90vw;
+	float:left
+}
+.set-91-view-width-for-height-if-portrait{
+	height:91vw;
+	float:left
+}
+.set-92-view-width-for-height-if-portrait{
+	height:92vw;
+	float:left
+}
+.set-93-view-width-for-height-if-portrait{
+	height:93vw;
+	float:left
+}
+.set-94-view-width-for-height-if-portrait{
+	height:94vw;
+	float:left
+}
+.set-95-view-width-for-height-if-portrait{
+	height:95vw;
+	float:left
+}
+.set-96-view-width-for-height-if-portrait{
+	height:96vw;
+	float:left
+}
+.set-97-view-width-for-height-if-portrait{
+	height:97vw;
+	float:left
+}
+.set-98-view-width-for-height-if-portrait{
+	height:98vw;
+	float:left
+}
+.set-99-view-width-for-height-if-portrait{
+	height:99vw;
+	float:left
+}
+.set-100-view-width-for-height-if-portrait{
+	height:100vw;
+	float:left
+}
+}
+@media (orientation: landscape){
+
+.set-1-percent-for-width-if-landscape{
+	width:1%;
+	float:left
+}
+.set-2-percent-for-width-if-landscape{
+	width:2%;
+	float:left
+}
+.set-3-percent-for-width-if-landscape{
+	width:3%;
+	float:left
+}
+.set-4-percent-for-width-if-landscape{
+	width:4%;
+	float:left
+}
+.set-5-percent-for-width-if-landscape{
+	width:5%;
+	float:left
+}
+.set-6-percent-for-width-if-landscape{
+	width:6%;
+	float:left
+}
+.set-7-percent-for-width-if-landscape{
+	width:7%;
+	float:left
+}
+.set-8-percent-for-width-if-landscape{
+	width:8%;
+	float:left
+}
+.set-9-percent-for-width-if-landscape{
+	width:9%;
+	float:left
+}
+.set-10-percent-for-width-if-landscape{
+	width:10%;
+	float:left
+}
+.set-11-percent-for-width-if-landscape{
+	width:11%;
+	float:left
+}
+.set-12-percent-for-width-if-landscape{
+	width:12%;
+	float:left
+}
+.set-13-percent-for-width-if-landscape{
+	width:13%;
+	float:left
+}
+.set-14-percent-for-width-if-landscape{
+	width:14%;
+	float:left
+}
+.set-15-percent-for-width-if-landscape{
+	width:15%;
+	float:left
+}
+.set-16-percent-for-width-if-landscape{
+	width:16%;
+	float:left
+}
+.set-17-percent-for-width-if-landscape{
+	width:17%;
+	float:left
+}
+.set-18-percent-for-width-if-landscape{
+	width:18%;
+	float:left
+}
+.set-19-percent-for-width-if-landscape{
+	width:19%;
+	float:left
+}
+.set-20-percent-for-width-if-landscape{
+	width:20%;
+	float:left
+}
+.set-21-percent-for-width-if-landscape{
+	width:21%;
+	float:left
+}
+.set-22-percent-for-width-if-landscape{
+	width:22%;
+	float:left
+}
+.set-23-percent-for-width-if-landscape{
+	width:23%;
+	float:left
+}
+.set-24-percent-for-width-if-landscape{
+	width:24%;
+	float:left
+}
+.set-25-percent-for-width-if-landscape{
+	width:25%;
+	float:left
+}
+.set-26-percent-for-width-if-landscape{
+	width:26%;
+	float:left
+}
+.set-27-percent-for-width-if-landscape{
+	width:27%;
+	float:left
+}
+.set-28-percent-for-width-if-landscape{
+	width:28%;
+	float:left
+}
+.set-29-percent-for-width-if-landscape{
+	width:29%;
+	float:left
+}
+.set-30-percent-for-width-if-landscape{
+	width:30%;
+	float:left
+}
+.set-31-percent-for-width-if-landscape{
+	width:31%;
+	float:left
+}
+.set-32-percent-for-width-if-landscape{
+	width:32%;
+	float:left
+}
+.set-33-percent-for-width-if-landscape{
+	width:33%;
+	float:left
+}
+.set-34-percent-for-width-if-landscape{
+	width:34%;
+	float:left
+}
+.set-35-percent-for-width-if-landscape{
+	width:35%;
+	float:left
+}
+.set-36-percent-for-width-if-landscape{
+	width:36%;
+	float:left
+}
+.set-37-percent-for-width-if-landscape{
+	width:37%;
+	float:left
+}
+.set-38-percent-for-width-if-landscape{
+	width:38%;
+	float:left
+}
+.set-39-percent-for-width-if-landscape{
+	width:39%;
+	float:left
+}
+.set-40-percent-for-width-if-landscape{
+	width:40%;
+	float:left
+}
+.set-41-percent-for-width-if-landscape{
+	width:41%;
+	float:left
+}
+.set-42-percent-for-width-if-landscape{
+	width:42%;
+	float:left
+}
+.set-43-percent-for-width-if-landscape{
+	width:43%;
+	float:left
+}
+.set-44-percent-for-width-if-landscape{
+	width:44%;
+	float:left
+}
+.set-45-percent-for-width-if-landscape{
+	width:45%;
+	float:left
+}
+.set-46-percent-for-width-if-landscape{
+	width:46%;
+	float:left
+}
+.set-47-percent-for-width-if-landscape{
+	width:47%;
+	float:left
+}
+.set-48-percent-for-width-if-landscape{
+	width:48%;
+	float:left
+}
+.set-49-percent-for-width-if-landscape{
+	width:49%;
+	float:left
+}
+.set-50-percent-for-width-if-landscape{
+	width:50%;
+	float:left
+}
+.set-51-percent-for-width-if-landscape{
+	width:51%;
+	float:left
+}
+.set-52-percent-for-width-if-landscape{
+	width:52%;
+	float:left
+}
+.set-53-percent-for-width-if-landscape{
+	width:53%;
+	float:left
+}
+.set-54-percent-for-width-if-landscape{
+	width:54%;
+	float:left
+}
+.set-55-percent-for-width-if-landscape{
+	width:55%;
+	float:left
+}
+.set-56-percent-for-width-if-landscape{
+	width:56%;
+	float:left
+}
+.set-57-percent-for-width-if-landscape{
+	width:57%;
+	float:left
+}
+.set-58-percent-for-width-if-landscape{
+	width:58%;
+	float:left
+}
+.set-59-percent-for-width-if-landscape{
+	width:59%;
+	float:left
+}
+.set-60-percent-for-width-if-landscape{
+	width:60%;
+	float:left
+}
+.set-61-percent-for-width-if-landscape{
+	width:61%;
+	float:left
+}
+.set-62-percent-for-width-if-landscape{
+	width:62%;
+	float:left
+}
+.set-63-percent-for-width-if-landscape{
+	width:63%;
+	float:left
+}
+.set-64-percent-for-width-if-landscape{
+	width:64%;
+	float:left
+}
+.set-65-percent-for-width-if-landscape{
+	width:65%;
+	float:left
+}
+.set-66-percent-for-width-if-landscape{
+	width:66%;
+	float:left
+}
+.set-67-percent-for-width-if-landscape{
+	width:67%;
+	float:left
+}
+.set-68-percent-for-width-if-landscape{
+	width:68%;
+	float:left
+}
+.set-69-percent-for-width-if-landscape{
+	width:69%;
+	float:left
+}
+.set-70-percent-for-width-if-landscape{
+	width:70%;
+	float:left
+}
+.set-71-percent-for-width-if-landscape{
+	width:71%;
+	float:left
+}
+.set-72-percent-for-width-if-landscape{
+	width:72%;
+	float:left
+}
+.set-73-percent-for-width-if-landscape{
+	width:73%;
+	float:left
+}
+.set-74-percent-for-width-if-landscape{
+	width:74%;
+	float:left
+}
+.set-75-percent-for-width-if-landscape{
+	width:75%;
+	float:left
+}
+.set-76-percent-for-width-if-landscape{
+	width:76%;
+	float:left
+}
+.set-77-percent-for-width-if-landscape{
+	width:77%;
+	float:left
+}
+.set-78-percent-for-width-if-landscape{
+	width:78%;
+	float:left
+}
+.set-79-percent-for-width-if-landscape{
+	width:79%;
+	float:left
+}
+.set-80-percent-for-width-if-landscape{
+	width:80%;
+	float:left
+}
+.set-81-percent-for-width-if-landscape{
+	width:81%;
+	float:left
+}
+.set-82-percent-for-width-if-landscape{
+	width:82%;
+	float:left
+}
+.set-83-percent-for-width-if-landscape{
+	width:83%;
+	float:left
+}
+.set-84-percent-for-width-if-landscape{
+	width:84%;
+	float:left
+}
+.set-85-percent-for-width-if-landscape{
+	width:85%;
+	float:left
+}
+.set-86-percent-for-width-if-landscape{
+	width:86%;
+	float:left
+}
+.set-87-percent-for-width-if-landscape{
+	width:87%;
+	float:left
+}
+.set-88-percent-for-width-if-landscape{
+	width:88%;
+	float:left
+}
+.set-89-percent-for-width-if-landscape{
+	width:89%;
+	float:left
+}
+.set-90-percent-for-width-if-landscape{
+	width:90%;
+	float:left
+}
+.set-91-percent-for-width-if-landscape{
+	width:91%;
+	float:left
+}
+.set-92-percent-for-width-if-landscape{
+	width:92%;
+	float:left
+}
+.set-93-percent-for-width-if-landscape{
+	width:93%;
+	float:left
+}
+.set-94-percent-for-width-if-landscape{
+	width:94%;
+	float:left
+}
+.set-95-percent-for-width-if-landscape{
+	width:95%;
+	float:left
+}
+.set-96-percent-for-width-if-landscape{
+	width:96%;
+	float:left
+}
+.set-97-percent-for-width-if-landscape{
+	width:97%;
+	float:left
+}
+.set-98-percent-for-width-if-landscape{
+	width:98%;
+	float:left
+}
+.set-99-percent-for-width-if-landscape{
+	width:99%;
+	float:left
+}
+.set-100-percent-for-width-if-landscape{
+	width:100%;
+	float:left
+}
+.set-1-view-height-for-width-if-landscape{
+	width:1vh;
+	float:left
+}
+.set-2-view-height-for-width-if-landscape{
+	width:2vh;
+	float:left
+}
+.set-3-view-height-for-width-if-landscape{
+	width:3vh;
+	float:left
+}
+.set-4-view-height-for-width-if-landscape{
+	width:4vh;
+	float:left
+}
+.set-5-view-height-for-width-if-landscape{
+	width:5vh;
+	float:left
+}
+.set-6-view-height-for-width-if-landscape{
+	width:6vh;
+	float:left
+}
+.set-7-view-height-for-width-if-landscape{
+	width:7vh;
+	float:left
+}
+.set-8-view-height-for-width-if-landscape{
+	width:8vh;
+	float:left
+}
+.set-9-view-height-for-width-if-landscape{
+	width:9vh;
+	float:left
+}
+.set-10-view-height-for-width-if-landscape{
+	width:10vh;
+	float:left
+}
+.set-11-view-height-for-width-if-landscape{
+	width:11vh;
+	float:left
+}
+.set-12-view-height-for-width-if-landscape{
+	width:12vh;
+	float:left
+}
+.set-13-view-height-for-width-if-landscape{
+	width:13vh;
+	float:left
+}
+.set-14-view-height-for-width-if-landscape{
+	width:14vh;
+	float:left
+}
+.set-15-view-height-for-width-if-landscape{
+	width:15vh;
+	float:left
+}
+.set-16-view-height-for-width-if-landscape{
+	width:16vh;
+	float:left
+}
+.set-17-view-height-for-width-if-landscape{
+	width:17vh;
+	float:left
+}
+.set-18-view-height-for-width-if-landscape{
+	width:18vh;
+	float:left
+}
+.set-19-view-height-for-width-if-landscape{
+	width:19vh;
+	float:left
+}
+.set-20-view-height-for-width-if-landscape{
+	width:20vh;
+	float:left
+}
+.set-21-view-height-for-width-if-landscape{
+	width:21vh;
+	float:left
+}
+.set-22-view-height-for-width-if-landscape{
+	width:22vh;
+	float:left
+}
+.set-23-view-height-for-width-if-landscape{
+	width:23vh;
+	float:left
+}
+.set-24-view-height-for-width-if-landscape{
+	width:24vh;
+	float:left
+}
+.set-25-view-height-for-width-if-landscape{
+	width:25vh;
+	float:left
+}
+.set-26-view-height-for-width-if-landscape{
+	width:26vh;
+	float:left
+}
+.set-27-view-height-for-width-if-landscape{
+	width:27vh;
+	float:left
+}
+.set-28-view-height-for-width-if-landscape{
+	width:28vh;
+	float:left
+}
+.set-29-view-height-for-width-if-landscape{
+	width:29vh;
+	float:left
+}
+.set-30-view-height-for-width-if-landscape{
+	width:30vh;
+	float:left
+}
+.set-31-view-height-for-width-if-landscape{
+	width:31vh;
+	float:left
+}
+.set-32-view-height-for-width-if-landscape{
+	width:32vh;
+	float:left
+}
+.set-33-view-height-for-width-if-landscape{
+	width:33vh;
+	float:left
+}
+.set-34-view-height-for-width-if-landscape{
+	width:34vh;
+	float:left
+}
+.set-35-view-height-for-width-if-landscape{
+	width:35vh;
+	float:left
+}
+.set-36-view-height-for-width-if-landscape{
+	width:36vh;
+	float:left
+}
+.set-37-view-height-for-width-if-landscape{
+	width:37vh;
+	float:left
+}
+.set-38-view-height-for-width-if-landscape{
+	width:38vh;
+	float:left
+}
+.set-39-view-height-for-width-if-landscape{
+	width:39vh;
+	float:left
+}
+.set-40-view-height-for-width-if-landscape{
+	width:40vh;
+	float:left
+}
+.set-41-view-height-for-width-if-landscape{
+	width:41vh;
+	float:left
+}
+.set-42-view-height-for-width-if-landscape{
+	width:42vh;
+	float:left
+}
+.set-43-view-height-for-width-if-landscape{
+	width:43vh;
+	float:left
+}
+.set-44-view-height-for-width-if-landscape{
+	width:44vh;
+	float:left
+}
+.set-45-view-height-for-width-if-landscape{
+	width:45vh;
+	float:left
+}
+.set-46-view-height-for-width-if-landscape{
+	width:46vh;
+	float:left
+}
+.set-47-view-height-for-width-if-landscape{
+	width:47vh;
+	float:left
+}
+.set-48-view-height-for-width-if-landscape{
+	width:48vh;
+	float:left
+}
+.set-49-view-height-for-width-if-landscape{
+	width:49vh;
+	float:left
+}
+.set-50-view-height-for-width-if-landscape{
+	width:50vh;
+	float:left
+}
+.set-51-view-height-for-width-if-landscape{
+	width:51vh;
+	float:left
+}
+.set-52-view-height-for-width-if-landscape{
+	width:52vh;
+	float:left
+}
+.set-53-view-height-for-width-if-landscape{
+	width:53vh;
+	float:left
+}
+.set-54-view-height-for-width-if-landscape{
+	width:54vh;
+	float:left
+}
+.set-55-view-height-for-width-if-landscape{
+	width:55vh;
+	float:left
+}
+.set-56-view-height-for-width-if-landscape{
+	width:56vh;
+	float:left
+}
+.set-57-view-height-for-width-if-landscape{
+	width:57vh;
+	float:left
+}
+.set-58-view-height-for-width-if-landscape{
+	width:58vh;
+	float:left
+}
+.set-59-view-height-for-width-if-landscape{
+	width:59vh;
+	float:left
+}
+.set-60-view-height-for-width-if-landscape{
+	width:60vh;
+	float:left
+}
+.set-61-view-height-for-width-if-landscape{
+	width:61vh;
+	float:left
+}
+.set-62-view-height-for-width-if-landscape{
+	width:62vh;
+	float:left
+}
+.set-63-view-height-for-width-if-landscape{
+	width:63vh;
+	float:left
+}
+.set-64-view-height-for-width-if-landscape{
+	width:64vh;
+	float:left
+}
+.set-65-view-height-for-width-if-landscape{
+	width:65vh;
+	float:left
+}
+.set-66-view-height-for-width-if-landscape{
+	width:66vh;
+	float:left
+}
+.set-67-view-height-for-width-if-landscape{
+	width:67vh;
+	float:left
+}
+.set-68-view-height-for-width-if-landscape{
+	width:68vh;
+	float:left
+}
+.set-69-view-height-for-width-if-landscape{
+	width:69vh;
+	float:left
+}
+.set-70-view-height-for-width-if-landscape{
+	width:70vh;
+	float:left
+}
+.set-71-view-height-for-width-if-landscape{
+	width:71vh;
+	float:left
+}
+.set-72-view-height-for-width-if-landscape{
+	width:72vh;
+	float:left
+}
+.set-73-view-height-for-width-if-landscape{
+	width:73vh;
+	float:left
+}
+.set-74-view-height-for-width-if-landscape{
+	width:74vh;
+	float:left
+}
+.set-75-view-height-for-width-if-landscape{
+	width:75vh;
+	float:left
+}
+.set-76-view-height-for-width-if-landscape{
+	width:76vh;
+	float:left
+}
+.set-77-view-height-for-width-if-landscape{
+	width:77vh;
+	float:left
+}
+.set-78-view-height-for-width-if-landscape{
+	width:78vh;
+	float:left
+}
+.set-79-view-height-for-width-if-landscape{
+	width:79vh;
+	float:left
+}
+.set-80-view-height-for-width-if-landscape{
+	width:80vh;
+	float:left
+}
+.set-81-view-height-for-width-if-landscape{
+	width:81vh;
+	float:left
+}
+.set-82-view-height-for-width-if-landscape{
+	width:82vh;
+	float:left
+}
+.set-83-view-height-for-width-if-landscape{
+	width:83vh;
+	float:left
+}
+.set-84-view-height-for-width-if-landscape{
+	width:84vh;
+	float:left
+}
+.set-85-view-height-for-width-if-landscape{
+	width:85vh;
+	float:left
+}
+.set-86-view-height-for-width-if-landscape{
+	width:86vh;
+	float:left
+}
+.set-87-view-height-for-width-if-landscape{
+	width:87vh;
+	float:left
+}
+.set-88-view-height-for-width-if-landscape{
+	width:88vh;
+	float:left
+}
+.set-89-view-height-for-width-if-landscape{
+	width:89vh;
+	float:left
+}
+.set-90-view-height-for-width-if-landscape{
+	width:90vh;
+	float:left
+}
+.set-91-view-height-for-width-if-landscape{
+	width:91vh;
+	float:left
+}
+.set-92-view-height-for-width-if-landscape{
+	width:92vh;
+	float:left
+}
+.set-93-view-height-for-width-if-landscape{
+	width:93vh;
+	float:left
+}
+.set-94-view-height-for-width-if-landscape{
+	width:94vh;
+	float:left
+}
+.set-95-view-height-for-width-if-landscape{
+	width:95vh;
+	float:left
+}
+.set-96-view-height-for-width-if-landscape{
+	width:96vh;
+	float:left
+}
+.set-97-view-height-for-width-if-landscape{
+	width:97vh;
+	float:left
+}
+.set-98-view-height-for-width-if-landscape{
+	width:98vh;
+	float:left
+}
+.set-99-view-height-for-width-if-landscape{
+	width:99vh;
+	float:left
+}
+.set-100-view-height-for-width-if-landscape{
+	width:100vh;
+	float:left
+}
+.set-1-view-width-for-width-if-landscape{
+	width:1vw;
+	float:left
+}
+.set-2-view-width-for-width-if-landscape{
+	width:2vw;
+	float:left
+}
+.set-3-view-width-for-width-if-landscape{
+	width:3vw;
+	float:left
+}
+.set-4-view-width-for-width-if-landscape{
+	width:4vw;
+	float:left
+}
+.set-5-view-width-for-width-if-landscape{
+	width:5vw;
+	float:left
+}
+.set-6-view-width-for-width-if-landscape{
+	width:6vw;
+	float:left
+}
+.set-7-view-width-for-width-if-landscape{
+	width:7vw;
+	float:left
+}
+.set-8-view-width-for-width-if-landscape{
+	width:8vw;
+	float:left
+}
+.set-9-view-width-for-width-if-landscape{
+	width:9vw;
+	float:left
+}
+.set-10-view-width-for-width-if-landscape{
+	width:10vw;
+	float:left
+}
+.set-11-view-width-for-width-if-landscape{
+	width:11vw;
+	float:left
+}
+.set-12-view-width-for-width-if-landscape{
+	width:12vw;
+	float:left
+}
+.set-13-view-width-for-width-if-landscape{
+	width:13vw;
+	float:left
+}
+.set-14-view-width-for-width-if-landscape{
+	width:14vw;
+	float:left
+}
+.set-15-view-width-for-width-if-landscape{
+	width:15vw;
+	float:left
+}
+.set-16-view-width-for-width-if-landscape{
+	width:16vw;
+	float:left
+}
+.set-17-view-width-for-width-if-landscape{
+	width:17vw;
+	float:left
+}
+.set-18-view-width-for-width-if-landscape{
+	width:18vw;
+	float:left
+}
+.set-19-view-width-for-width-if-landscape{
+	width:19vw;
+	float:left
+}
+.set-20-view-width-for-width-if-landscape{
+	width:20vw;
+	float:left
+}
+.set-21-view-width-for-width-if-landscape{
+	width:21vw;
+	float:left
+}
+.set-22-view-width-for-width-if-landscape{
+	width:22vw;
+	float:left
+}
+.set-23-view-width-for-width-if-landscape{
+	width:23vw;
+	float:left
+}
+.set-24-view-width-for-width-if-landscape{
+	width:24vw;
+	float:left
+}
+.set-25-view-width-for-width-if-landscape{
+	width:25vw;
+	float:left
+}
+.set-26-view-width-for-width-if-landscape{
+	width:26vw;
+	float:left
+}
+.set-27-view-width-for-width-if-landscape{
+	width:27vw;
+	float:left
+}
+.set-28-view-width-for-width-if-landscape{
+	width:28vw;
+	float:left
+}
+.set-29-view-width-for-width-if-landscape{
+	width:29vw;
+	float:left
+}
+.set-30-view-width-for-width-if-landscape{
+	width:30vw;
+	float:left
+}
+.set-31-view-width-for-width-if-landscape{
+	width:31vw;
+	float:left
+}
+.set-32-view-width-for-width-if-landscape{
+	width:32vw;
+	float:left
+}
+.set-33-view-width-for-width-if-landscape{
+	width:33vw;
+	float:left
+}
+.set-34-view-width-for-width-if-landscape{
+	width:34vw;
+	float:left
+}
+.set-35-view-width-for-width-if-landscape{
+	width:35vw;
+	float:left
+}
+.set-36-view-width-for-width-if-landscape{
+	width:36vw;
+	float:left
+}
+.set-37-view-width-for-width-if-landscape{
+	width:37vw;
+	float:left
+}
+.set-38-view-width-for-width-if-landscape{
+	width:38vw;
+	float:left
+}
+.set-39-view-width-for-width-if-landscape{
+	width:39vw;
+	float:left
+}
+.set-40-view-width-for-width-if-landscape{
+	width:40vw;
+	float:left
+}
+.set-41-view-width-for-width-if-landscape{
+	width:41vw;
+	float:left
+}
+.set-42-view-width-for-width-if-landscape{
+	width:42vw;
+	float:left
+}
+.set-43-view-width-for-width-if-landscape{
+	width:43vw;
+	float:left
+}
+.set-44-view-width-for-width-if-landscape{
+	width:44vw;
+	float:left
+}
+.set-45-view-width-for-width-if-landscape{
+	width:45vw;
+	float:left
+}
+.set-46-view-width-for-width-if-landscape{
+	width:46vw;
+	float:left
+}
+.set-47-view-width-for-width-if-landscape{
+	width:47vw;
+	float:left
+}
+.set-48-view-width-for-width-if-landscape{
+	width:48vw;
+	float:left
+}
+.set-49-view-width-for-width-if-landscape{
+	width:49vw;
+	float:left
+}
+.set-50-view-width-for-width-if-landscape{
+	width:50vw;
+	float:left
+}
+.set-51-view-width-for-width-if-landscape{
+	width:51vw;
+	float:left
+}
+.set-52-view-width-for-width-if-landscape{
+	width:52vw;
+	float:left
+}
+.set-53-view-width-for-width-if-landscape{
+	width:53vw;
+	float:left
+}
+.set-54-view-width-for-width-if-landscape{
+	width:54vw;
+	float:left
+}
+.set-55-view-width-for-width-if-landscape{
+	width:55vw;
+	float:left
+}
+.set-56-view-width-for-width-if-landscape{
+	width:56vw;
+	float:left
+}
+.set-57-view-width-for-width-if-landscape{
+	width:57vw;
+	float:left
+}
+.set-58-view-width-for-width-if-landscape{
+	width:58vw;
+	float:left
+}
+.set-59-view-width-for-width-if-landscape{
+	width:59vw;
+	float:left
+}
+.set-60-view-width-for-width-if-landscape{
+	width:60vw;
+	float:left
+}
+.set-61-view-width-for-width-if-landscape{
+	width:61vw;
+	float:left
+}
+.set-62-view-width-for-width-if-landscape{
+	width:62vw;
+	float:left
+}
+.set-63-view-width-for-width-if-landscape{
+	width:63vw;
+	float:left
+}
+.set-64-view-width-for-width-if-landscape{
+	width:64vw;
+	float:left
+}
+.set-65-view-width-for-width-if-landscape{
+	width:65vw;
+	float:left
+}
+.set-66-view-width-for-width-if-landscape{
+	width:66vw;
+	float:left
+}
+.set-67-view-width-for-width-if-landscape{
+	width:67vw;
+	float:left
+}
+.set-68-view-width-for-width-if-landscape{
+	width:68vw;
+	float:left
+}
+.set-69-view-width-for-width-if-landscape{
+	width:69vw;
+	float:left
+}
+.set-70-view-width-for-width-if-landscape{
+	width:70vw;
+	float:left
+}
+.set-71-view-width-for-width-if-landscape{
+	width:71vw;
+	float:left
+}
+.set-72-view-width-for-width-if-landscape{
+	width:72vw;
+	float:left
+}
+.set-73-view-width-for-width-if-landscape{
+	width:73vw;
+	float:left
+}
+.set-74-view-width-for-width-if-landscape{
+	width:74vw;
+	float:left
+}
+.set-75-view-width-for-width-if-landscape{
+	width:75vw;
+	float:left
+}
+.set-76-view-width-for-width-if-landscape{
+	width:76vw;
+	float:left
+}
+.set-77-view-width-for-width-if-landscape{
+	width:77vw;
+	float:left
+}
+.set-78-view-width-for-width-if-landscape{
+	width:78vw;
+	float:left
+}
+.set-79-view-width-for-width-if-landscape{
+	width:79vw;
+	float:left
+}
+.set-80-view-width-for-width-if-landscape{
+	width:80vw;
+	float:left
+}
+.set-81-view-width-for-width-if-landscape{
+	width:81vw;
+	float:left
+}
+.set-82-view-width-for-width-if-landscape{
+	width:82vw;
+	float:left
+}
+.set-83-view-width-for-width-if-landscape{
+	width:83vw;
+	float:left
+}
+.set-84-view-width-for-width-if-landscape{
+	width:84vw;
+	float:left
+}
+.set-85-view-width-for-width-if-landscape{
+	width:85vw;
+	float:left
+}
+.set-86-view-width-for-width-if-landscape{
+	width:86vw;
+	float:left
+}
+.set-87-view-width-for-width-if-landscape{
+	width:87vw;
+	float:left
+}
+.set-88-view-width-for-width-if-landscape{
+	width:88vw;
+	float:left
+}
+.set-89-view-width-for-width-if-landscape{
+	width:89vw;
+	float:left
+}
+.set-90-view-width-for-width-if-landscape{
+	width:90vw;
+	float:left
+}
+.set-91-view-width-for-width-if-landscape{
+	width:91vw;
+	float:left
+}
+.set-92-view-width-for-width-if-landscape{
+	width:92vw;
+	float:left
+}
+.set-93-view-width-for-width-if-landscape{
+	width:93vw;
+	float:left
+}
+.set-94-view-width-for-width-if-landscape{
+	width:94vw;
+	float:left
+}
+.set-95-view-width-for-width-if-landscape{
+	width:95vw;
+	float:left
+}
+.set-96-view-width-for-width-if-landscape{
+	width:96vw;
+	float:left
+}
+.set-97-view-width-for-width-if-landscape{
+	width:97vw;
+	float:left
+}
+.set-98-view-width-for-width-if-landscape{
+	width:98vw;
+	float:left
+}
+.set-99-view-width-for-width-if-landscape{
+	width:99vw;
+	float:left
+}
+.set-100-view-width-for-width-if-landscape{
+	width:100vw;
+	float:left
+}
+.set-1-percent-for-height-if-landscape{
+	height:1%;
+	float:left
+}
+.set-2-percent-for-height-if-landscape{
+	height:2%;
+	float:left
+}
+.set-3-percent-for-height-if-landscape{
+	height:3%;
+	float:left
+}
+.set-4-percent-for-height-if-landscape{
+	height:4%;
+	float:left
+}
+.set-5-percent-for-height-if-landscape{
+	height:5%;
+	float:left
+}
+.set-6-percent-for-height-if-landscape{
+	height:6%;
+	float:left
+}
+.set-7-percent-for-height-if-landscape{
+	height:7%;
+	float:left
+}
+.set-8-percent-for-height-if-landscape{
+	height:8%;
+	float:left
+}
+.set-9-percent-for-height-if-landscape{
+	height:9%;
+	float:left
+}
+.set-10-percent-for-height-if-landscape{
+	height:10%;
+	float:left
+}
+.set-11-percent-for-height-if-landscape{
+	height:11%;
+	float:left
+}
+.set-12-percent-for-height-if-landscape{
+	height:12%;
+	float:left
+}
+.set-13-percent-for-height-if-landscape{
+	height:13%;
+	float:left
+}
+.set-14-percent-for-height-if-landscape{
+	height:14%;
+	float:left
+}
+.set-15-percent-for-height-if-landscape{
+	height:15%;
+	float:left
+}
+.set-16-percent-for-height-if-landscape{
+	height:16%;
+	float:left
+}
+.set-17-percent-for-height-if-landscape{
+	height:17%;
+	float:left
+}
+.set-18-percent-for-height-if-landscape{
+	height:18%;
+	float:left
+}
+.set-19-percent-for-height-if-landscape{
+	height:19%;
+	float:left
+}
+.set-20-percent-for-height-if-landscape{
+	height:20%;
+	float:left
+}
+.set-21-percent-for-height-if-landscape{
+	height:21%;
+	float:left
+}
+.set-22-percent-for-height-if-landscape{
+	height:22%;
+	float:left
+}
+.set-23-percent-for-height-if-landscape{
+	height:23%;
+	float:left
+}
+.set-24-percent-for-height-if-landscape{
+	height:24%;
+	float:left
+}
+.set-25-percent-for-height-if-landscape{
+	height:25%;
+	float:left
+}
+.set-26-percent-for-height-if-landscape{
+	height:26%;
+	float:left
+}
+.set-27-percent-for-height-if-landscape{
+	height:27%;
+	float:left
+}
+.set-28-percent-for-height-if-landscape{
+	height:28%;
+	float:left
+}
+.set-29-percent-for-height-if-landscape{
+	height:29%;
+	float:left
+}
+.set-30-percent-for-height-if-landscape{
+	height:30%;
+	float:left
+}
+.set-31-percent-for-height-if-landscape{
+	height:31%;
+	float:left
+}
+.set-32-percent-for-height-if-landscape{
+	height:32%;
+	float:left
+}
+.set-33-percent-for-height-if-landscape{
+	height:33%;
+	float:left
+}
+.set-34-percent-for-height-if-landscape{
+	height:34%;
+	float:left
+}
+.set-35-percent-for-height-if-landscape{
+	height:35%;
+	float:left
+}
+.set-36-percent-for-height-if-landscape{
+	height:36%;
+	float:left
+}
+.set-37-percent-for-height-if-landscape{
+	height:37%;
+	float:left
+}
+.set-38-percent-for-height-if-landscape{
+	height:38%;
+	float:left
+}
+.set-39-percent-for-height-if-landscape{
+	height:39%;
+	float:left
+}
+.set-40-percent-for-height-if-landscape{
+	height:40%;
+	float:left
+}
+.set-41-percent-for-height-if-landscape{
+	height:41%;
+	float:left
+}
+.set-42-percent-for-height-if-landscape{
+	height:42%;
+	float:left
+}
+.set-43-percent-for-height-if-landscape{
+	height:43%;
+	float:left
+}
+.set-44-percent-for-height-if-landscape{
+	height:44%;
+	float:left
+}
+.set-45-percent-for-height-if-landscape{
+	height:45%;
+	float:left
+}
+.set-46-percent-for-height-if-landscape{
+	height:46%;
+	float:left
+}
+.set-47-percent-for-height-if-landscape{
+	height:47%;
+	float:left
+}
+.set-48-percent-for-height-if-landscape{
+	height:48%;
+	float:left
+}
+.set-49-percent-for-height-if-landscape{
+	height:49%;
+	float:left
+}
+.set-50-percent-for-height-if-landscape{
+	height:50%;
+	float:left
+}
+.set-51-percent-for-height-if-landscape{
+	height:51%;
+	float:left
+}
+.set-52-percent-for-height-if-landscape{
+	height:52%;
+	float:left
+}
+.set-53-percent-for-height-if-landscape{
+	height:53%;
+	float:left
+}
+.set-54-percent-for-height-if-landscape{
+	height:54%;
+	float:left
+}
+.set-55-percent-for-height-if-landscape{
+	height:55%;
+	float:left
+}
+.set-56-percent-for-height-if-landscape{
+	height:56%;
+	float:left
+}
+.set-57-percent-for-height-if-landscape{
+	height:57%;
+	float:left
+}
+.set-58-percent-for-height-if-landscape{
+	height:58%;
+	float:left
+}
+.set-59-percent-for-height-if-landscape{
+	height:59%;
+	float:left
+}
+.set-60-percent-for-height-if-landscape{
+	height:60%;
+	float:left
+}
+.set-61-percent-for-height-if-landscape{
+	height:61%;
+	float:left
+}
+.set-62-percent-for-height-if-landscape{
+	height:62%;
+	float:left
+}
+.set-63-percent-for-height-if-landscape{
+	height:63%;
+	float:left
+}
+.set-64-percent-for-height-if-landscape{
+	height:64%;
+	float:left
+}
+.set-65-percent-for-height-if-landscape{
+	height:65%;
+	float:left
+}
+.set-66-percent-for-height-if-landscape{
+	height:66%;
+	float:left
+}
+.set-67-percent-for-height-if-landscape{
+	height:67%;
+	float:left
+}
+.set-68-percent-for-height-if-landscape{
+	height:68%;
+	float:left
+}
+.set-69-percent-for-height-if-landscape{
+	height:69%;
+	float:left
+}
+.set-70-percent-for-height-if-landscape{
+	height:70%;
+	float:left
+}
+.set-71-percent-for-height-if-landscape{
+	height:71%;
+	float:left
+}
+.set-72-percent-for-height-if-landscape{
+	height:72%;
+	float:left
+}
+.set-73-percent-for-height-if-landscape{
+	height:73%;
+	float:left
+}
+.set-74-percent-for-height-if-landscape{
+	height:74%;
+	float:left
+}
+.set-75-percent-for-height-if-landscape{
+	height:75%;
+	float:left
+}
+.set-76-percent-for-height-if-landscape{
+	height:76%;
+	float:left
+}
+.set-77-percent-for-height-if-landscape{
+	height:77%;
+	float:left
+}
+.set-78-percent-for-height-if-landscape{
+	height:78%;
+	float:left
+}
+.set-79-percent-for-height-if-landscape{
+	height:79%;
+	float:left
+}
+.set-80-percent-for-height-if-landscape{
+	height:80%;
+	float:left
+}
+.set-81-percent-for-height-if-landscape{
+	height:81%;
+	float:left
+}
+.set-82-percent-for-height-if-landscape{
+	height:82%;
+	float:left
+}
+.set-83-percent-for-height-if-landscape{
+	height:83%;
+	float:left
+}
+.set-84-percent-for-height-if-landscape{
+	height:84%;
+	float:left
+}
+.set-85-percent-for-height-if-landscape{
+	height:85%;
+	float:left
+}
+.set-86-percent-for-height-if-landscape{
+	height:86%;
+	float:left
+}
+.set-87-percent-for-height-if-landscape{
+	height:87%;
+	float:left
+}
+.set-88-percent-for-height-if-landscape{
+	height:88%;
+	float:left
+}
+.set-89-percent-for-height-if-landscape{
+	height:89%;
+	float:left
+}
+.set-90-percent-for-height-if-landscape{
+	height:90%;
+	float:left
+}
+.set-91-percent-for-height-if-landscape{
+	height:91%;
+	float:left
+}
+.set-92-percent-for-height-if-landscape{
+	height:92%;
+	float:left
+}
+.set-93-percent-for-height-if-landscape{
+	height:93%;
+	float:left
+}
+.set-94-percent-for-height-if-landscape{
+	height:94%;
+	float:left
+}
+.set-95-percent-for-height-if-landscape{
+	height:95%;
+	float:left
+}
+.set-96-percent-for-height-if-landscape{
+	height:96%;
+	float:left
+}
+.set-97-percent-for-height-if-landscape{
+	height:97%;
+	float:left
+}
+.set-98-percent-for-height-if-landscape{
+	height:98%;
+	float:left
+}
+.set-99-percent-for-height-if-landscape{
+	height:99%;
+	float:left
+}
+.set-100-percent-for-height-if-landscape{
+	height:100%;
+	float:left
+}
+.set-1-view-height-for-height-if-landscape{
+	height:1vh;
+	float:left
+}
+.set-2-view-height-for-height-if-landscape{
+	height:2vh;
+	float:left
+}
+.set-3-view-height-for-height-if-landscape{
+	height:3vh;
+	float:left
+}
+.set-4-view-height-for-height-if-landscape{
+	height:4vh;
+	float:left
+}
+.set-5-view-height-for-height-if-landscape{
+	height:5vh;
+	float:left
+}
+.set-6-view-height-for-height-if-landscape{
+	height:6vh;
+	float:left
+}
+.set-7-view-height-for-height-if-landscape{
+	height:7vh;
+	float:left
+}
+.set-8-view-height-for-height-if-landscape{
+	height:8vh;
+	float:left
+}
+.set-9-view-height-for-height-if-landscape{
+	height:9vh;
+	float:left
+}
+.set-10-view-height-for-height-if-landscape{
+	height:10vh;
+	float:left
+}
+.set-11-view-height-for-height-if-landscape{
+	height:11vh;
+	float:left
+}
+.set-12-view-height-for-height-if-landscape{
+	height:12vh;
+	float:left
+}
+.set-13-view-height-for-height-if-landscape{
+	height:13vh;
+	float:left
+}
+.set-14-view-height-for-height-if-landscape{
+	height:14vh;
+	float:left
+}
+.set-15-view-height-for-height-if-landscape{
+	height:15vh;
+	float:left
+}
+.set-16-view-height-for-height-if-landscape{
+	height:16vh;
+	float:left
+}
+.set-17-view-height-for-height-if-landscape{
+	height:17vh;
+	float:left
+}
+.set-18-view-height-for-height-if-landscape{
+	height:18vh;
+	float:left
+}
+.set-19-view-height-for-height-if-landscape{
+	height:19vh;
+	float:left
+}
+.set-20-view-height-for-height-if-landscape{
+	height:20vh;
+	float:left
+}
+.set-21-view-height-for-height-if-landscape{
+	height:21vh;
+	float:left
+}
+.set-22-view-height-for-height-if-landscape{
+	height:22vh;
+	float:left
+}
+.set-23-view-height-for-height-if-landscape{
+	height:23vh;
+	float:left
+}
+.set-24-view-height-for-height-if-landscape{
+	height:24vh;
+	float:left
+}
+.set-25-view-height-for-height-if-landscape{
+	height:25vh;
+	float:left
+}
+.set-26-view-height-for-height-if-landscape{
+	height:26vh;
+	float:left
+}
+.set-27-view-height-for-height-if-landscape{
+	height:27vh;
+	float:left
+}
+.set-28-view-height-for-height-if-landscape{
+	height:28vh;
+	float:left
+}
+.set-29-view-height-for-height-if-landscape{
+	height:29vh;
+	float:left
+}
+.set-30-view-height-for-height-if-landscape{
+	height:30vh;
+	float:left
+}
+.set-31-view-height-for-height-if-landscape{
+	height:31vh;
+	float:left
+}
+.set-32-view-height-for-height-if-landscape{
+	height:32vh;
+	float:left
+}
+.set-33-view-height-for-height-if-landscape{
+	height:33vh;
+	float:left
+}
+.set-34-view-height-for-height-if-landscape{
+	height:34vh;
+	float:left
+}
+.set-35-view-height-for-height-if-landscape{
+	height:35vh;
+	float:left
+}
+.set-36-view-height-for-height-if-landscape{
+	height:36vh;
+	float:left
+}
+.set-37-view-height-for-height-if-landscape{
+	height:37vh;
+	float:left
+}
+.set-38-view-height-for-height-if-landscape{
+	height:38vh;
+	float:left
+}
+.set-39-view-height-for-height-if-landscape{
+	height:39vh;
+	float:left
+}
+.set-40-view-height-for-height-if-landscape{
+	height:40vh;
+	float:left
+}
+.set-41-view-height-for-height-if-landscape{
+	height:41vh;
+	float:left
+}
+.set-42-view-height-for-height-if-landscape{
+	height:42vh;
+	float:left
+}
+.set-43-view-height-for-height-if-landscape{
+	height:43vh;
+	float:left
+}
+.set-44-view-height-for-height-if-landscape{
+	height:44vh;
+	float:left
+}
+.set-45-view-height-for-height-if-landscape{
+	height:45vh;
+	float:left
+}
+.set-46-view-height-for-height-if-landscape{
+	height:46vh;
+	float:left
+}
+.set-47-view-height-for-height-if-landscape{
+	height:47vh;
+	float:left
+}
+.set-48-view-height-for-height-if-landscape{
+	height:48vh;
+	float:left
+}
+.set-49-view-height-for-height-if-landscape{
+	height:49vh;
+	float:left
+}
+.set-50-view-height-for-height-if-landscape{
+	height:50vh;
+	float:left
+}
+.set-51-view-height-for-height-if-landscape{
+	height:51vh;
+	float:left
+}
+.set-52-view-height-for-height-if-landscape{
+	height:52vh;
+	float:left
+}
+.set-53-view-height-for-height-if-landscape{
+	height:53vh;
+	float:left
+}
+.set-54-view-height-for-height-if-landscape{
+	height:54vh;
+	float:left
+}
+.set-55-view-height-for-height-if-landscape{
+	height:55vh;
+	float:left
+}
+.set-56-view-height-for-height-if-landscape{
+	height:56vh;
+	float:left
+}
+.set-57-view-height-for-height-if-landscape{
+	height:57vh;
+	float:left
+}
+.set-58-view-height-for-height-if-landscape{
+	height:58vh;
+	float:left
+}
+.set-59-view-height-for-height-if-landscape{
+	height:59vh;
+	float:left
+}
+.set-60-view-height-for-height-if-landscape{
+	height:60vh;
+	float:left
+}
+.set-61-view-height-for-height-if-landscape{
+	height:61vh;
+	float:left
+}
+.set-62-view-height-for-height-if-landscape{
+	height:62vh;
+	float:left
+}
+.set-63-view-height-for-height-if-landscape{
+	height:63vh;
+	float:left
+}
+.set-64-view-height-for-height-if-landscape{
+	height:64vh;
+	float:left
+}
+.set-65-view-height-for-height-if-landscape{
+	height:65vh;
+	float:left
+}
+.set-66-view-height-for-height-if-landscape{
+	height:66vh;
+	float:left
+}
+.set-67-view-height-for-height-if-landscape{
+	height:67vh;
+	float:left
+}
+.set-68-view-height-for-height-if-landscape{
+	height:68vh;
+	float:left
+}
+.set-69-view-height-for-height-if-landscape{
+	height:69vh;
+	float:left
+}
+.set-70-view-height-for-height-if-landscape{
+	height:70vh;
+	float:left
+}
+.set-71-view-height-for-height-if-landscape{
+	height:71vh;
+	float:left
+}
+.set-72-view-height-for-height-if-landscape{
+	height:72vh;
+	float:left
+}
+.set-73-view-height-for-height-if-landscape{
+	height:73vh;
+	float:left
+}
+.set-74-view-height-for-height-if-landscape{
+	height:74vh;
+	float:left
+}
+.set-75-view-height-for-height-if-landscape{
+	height:75vh;
+	float:left
+}
+.set-76-view-height-for-height-if-landscape{
+	height:76vh;
+	float:left
+}
+.set-77-view-height-for-height-if-landscape{
+	height:77vh;
+	float:left
+}
+.set-78-view-height-for-height-if-landscape{
+	height:78vh;
+	float:left
+}
+.set-79-view-height-for-height-if-landscape{
+	height:79vh;
+	float:left
+}
+.set-80-view-height-for-height-if-landscape{
+	height:80vh;
+	float:left
+}
+.set-81-view-height-for-height-if-landscape{
+	height:81vh;
+	float:left
+}
+.set-82-view-height-for-height-if-landscape{
+	height:82vh;
+	float:left
+}
+.set-83-view-height-for-height-if-landscape{
+	height:83vh;
+	float:left
+}
+.set-84-view-height-for-height-if-landscape{
+	height:84vh;
+	float:left
+}
+.set-85-view-height-for-height-if-landscape{
+	height:85vh;
+	float:left
+}
+.set-86-view-height-for-height-if-landscape{
+	height:86vh;
+	float:left
+}
+.set-87-view-height-for-height-if-landscape{
+	height:87vh;
+	float:left
+}
+.set-88-view-height-for-height-if-landscape{
+	height:88vh;
+	float:left
+}
+.set-89-view-height-for-height-if-landscape{
+	height:89vh;
+	float:left
+}
+.set-90-view-height-for-height-if-landscape{
+	height:90vh;
+	float:left
+}
+.set-91-view-height-for-height-if-landscape{
+	height:91vh;
+	float:left
+}
+.set-92-view-height-for-height-if-landscape{
+	height:92vh;
+	float:left
+}
+.set-93-view-height-for-height-if-landscape{
+	height:93vh;
+	float:left
+}
+.set-94-view-height-for-height-if-landscape{
+	height:94vh;
+	float:left
+}
+.set-95-view-height-for-height-if-landscape{
+	height:95vh;
+	float:left
+}
+.set-96-view-height-for-height-if-landscape{
+	height:96vh;
+	float:left
+}
+.set-97-view-height-for-height-if-landscape{
+	height:97vh;
+	float:left
+}
+.set-98-view-height-for-height-if-landscape{
+	height:98vh;
+	float:left
+}
+.set-99-view-height-for-height-if-landscape{
+	height:99vh;
+	float:left
+}
+.set-100-view-height-for-height-if-landscape{
+	height:100vh;
+	float:left
+}
+.set-1-view-width-for-height-if-landscape{
+	height:1vw;
+	float:left
+}
+.set-2-view-width-for-height-if-landscape{
+	height:2vw;
+	float:left
+}
+.set-3-view-width-for-height-if-landscape{
+	height:3vw;
+	float:left
+}
+.set-4-view-width-for-height-if-landscape{
+	height:4vw;
+	float:left
+}
+.set-5-view-width-for-height-if-landscape{
+	height:5vw;
+	float:left
+}
+.set-6-view-width-for-height-if-landscape{
+	height:6vw;
+	float:left
+}
+.set-7-view-width-for-height-if-landscape{
+	height:7vw;
+	float:left
+}
+.set-8-view-width-for-height-if-landscape{
+	height:8vw;
+	float:left
+}
+.set-9-view-width-for-height-if-landscape{
+	height:9vw;
+	float:left
+}
+.set-10-view-width-for-height-if-landscape{
+	height:10vw;
+	float:left
+}
+.set-11-view-width-for-height-if-landscape{
+	height:11vw;
+	float:left
+}
+.set-12-view-width-for-height-if-landscape{
+	height:12vw;
+	float:left
+}
+.set-13-view-width-for-height-if-landscape{
+	height:13vw;
+	float:left
+}
+.set-14-view-width-for-height-if-landscape{
+	height:14vw;
+	float:left
+}
+.set-15-view-width-for-height-if-landscape{
+	height:15vw;
+	float:left
+}
+.set-16-view-width-for-height-if-landscape{
+	height:16vw;
+	float:left
+}
+.set-17-view-width-for-height-if-landscape{
+	height:17vw;
+	float:left
+}
+.set-18-view-width-for-height-if-landscape{
+	height:18vw;
+	float:left
+}
+.set-19-view-width-for-height-if-landscape{
+	height:19vw;
+	float:left
+}
+.set-20-view-width-for-height-if-landscape{
+	height:20vw;
+	float:left
+}
+.set-21-view-width-for-height-if-landscape{
+	height:21vw;
+	float:left
+}
+.set-22-view-width-for-height-if-landscape{
+	height:22vw;
+	float:left
+}
+.set-23-view-width-for-height-if-landscape{
+	height:23vw;
+	float:left
+}
+.set-24-view-width-for-height-if-landscape{
+	height:24vw;
+	float:left
+}
+.set-25-view-width-for-height-if-landscape{
+	height:25vw;
+	float:left
+}
+.set-26-view-width-for-height-if-landscape{
+	height:26vw;
+	float:left
+}
+.set-27-view-width-for-height-if-landscape{
+	height:27vw;
+	float:left
+}
+.set-28-view-width-for-height-if-landscape{
+	height:28vw;
+	float:left
+}
+.set-29-view-width-for-height-if-landscape{
+	height:29vw;
+	float:left
+}
+.set-30-view-width-for-height-if-landscape{
+	height:30vw;
+	float:left
+}
+.set-31-view-width-for-height-if-landscape{
+	height:31vw;
+	float:left
+}
+.set-32-view-width-for-height-if-landscape{
+	height:32vw;
+	float:left
+}
+.set-33-view-width-for-height-if-landscape{
+	height:33vw;
+	float:left
+}
+.set-34-view-width-for-height-if-landscape{
+	height:34vw;
+	float:left
+}
+.set-35-view-width-for-height-if-landscape{
+	height:35vw;
+	float:left
+}
+.set-36-view-width-for-height-if-landscape{
+	height:36vw;
+	float:left
+}
+.set-37-view-width-for-height-if-landscape{
+	height:37vw;
+	float:left
+}
+.set-38-view-width-for-height-if-landscape{
+	height:38vw;
+	float:left
+}
+.set-39-view-width-for-height-if-landscape{
+	height:39vw;
+	float:left
+}
+.set-40-view-width-for-height-if-landscape{
+	height:40vw;
+	float:left
+}
+.set-41-view-width-for-height-if-landscape{
+	height:41vw;
+	float:left
+}
+.set-42-view-width-for-height-if-landscape{
+	height:42vw;
+	float:left
+}
+.set-43-view-width-for-height-if-landscape{
+	height:43vw;
+	float:left
+}
+.set-44-view-width-for-height-if-landscape{
+	height:44vw;
+	float:left
+}
+.set-45-view-width-for-height-if-landscape{
+	height:45vw;
+	float:left
+}
+.set-46-view-width-for-height-if-landscape{
+	height:46vw;
+	float:left
+}
+.set-47-view-width-for-height-if-landscape{
+	height:47vw;
+	float:left
+}
+.set-48-view-width-for-height-if-landscape{
+	height:48vw;
+	float:left
+}
+.set-49-view-width-for-height-if-landscape{
+	height:49vw;
+	float:left
+}
+.set-50-view-width-for-height-if-landscape{
+	height:50vw;
+	float:left
+}
+.set-51-view-width-for-height-if-landscape{
+	height:51vw;
+	float:left
+}
+.set-52-view-width-for-height-if-landscape{
+	height:52vw;
+	float:left
+}
+.set-53-view-width-for-height-if-landscape{
+	height:53vw;
+	float:left
+}
+.set-54-view-width-for-height-if-landscape{
+	height:54vw;
+	float:left
+}
+.set-55-view-width-for-height-if-landscape{
+	height:55vw;
+	float:left
+}
+.set-56-view-width-for-height-if-landscape{
+	height:56vw;
+	float:left
+}
+.set-57-view-width-for-height-if-landscape{
+	height:57vw;
+	float:left
+}
+.set-58-view-width-for-height-if-landscape{
+	height:58vw;
+	float:left
+}
+.set-59-view-width-for-height-if-landscape{
+	height:59vw;
+	float:left
+}
+.set-60-view-width-for-height-if-landscape{
+	height:60vw;
+	float:left
+}
+.set-61-view-width-for-height-if-landscape{
+	height:61vw;
+	float:left
+}
+.set-62-view-width-for-height-if-landscape{
+	height:62vw;
+	float:left
+}
+.set-63-view-width-for-height-if-landscape{
+	height:63vw;
+	float:left
+}
+.set-64-view-width-for-height-if-landscape{
+	height:64vw;
+	float:left
+}
+.set-65-view-width-for-height-if-landscape{
+	height:65vw;
+	float:left
+}
+.set-66-view-width-for-height-if-landscape{
+	height:66vw;
+	float:left
+}
+.set-67-view-width-for-height-if-landscape{
+	height:67vw;
+	float:left
+}
+.set-68-view-width-for-height-if-landscape{
+	height:68vw;
+	float:left
+}
+.set-69-view-width-for-height-if-landscape{
+	height:69vw;
+	float:left
+}
+.set-70-view-width-for-height-if-landscape{
+	height:70vw;
+	float:left
+}
+.set-71-view-width-for-height-if-landscape{
+	height:71vw;
+	float:left
+}
+.set-72-view-width-for-height-if-landscape{
+	height:72vw;
+	float:left
+}
+.set-73-view-width-for-height-if-landscape{
+	height:73vw;
+	float:left
+}
+.set-74-view-width-for-height-if-landscape{
+	height:74vw;
+	float:left
+}
+.set-75-view-width-for-height-if-landscape{
+	height:75vw;
+	float:left
+}
+.set-76-view-width-for-height-if-landscape{
+	height:76vw;
+	float:left
+}
+.set-77-view-width-for-height-if-landscape{
+	height:77vw;
+	float:left
+}
+.set-78-view-width-for-height-if-landscape{
+	height:78vw;
+	float:left
+}
+.set-79-view-width-for-height-if-landscape{
+	height:79vw;
+	float:left
+}
+.set-80-view-width-for-height-if-landscape{
+	height:80vw;
+	float:left
+}
+.set-81-view-width-for-height-if-landscape{
+	height:81vw;
+	float:left
+}
+.set-82-view-width-for-height-if-landscape{
+	height:82vw;
+	float:left
+}
+.set-83-view-width-for-height-if-landscape{
+	height:83vw;
+	float:left
+}
+.set-84-view-width-for-height-if-landscape{
+	height:84vw;
+	float:left
+}
+.set-85-view-width-for-height-if-landscape{
+	height:85vw;
+	float:left
+}
+.set-86-view-width-for-height-if-landscape{
+	height:86vw;
+	float:left
+}
+.set-87-view-width-for-height-if-landscape{
+	height:87vw;
+	float:left
+}
+.set-88-view-width-for-height-if-landscape{
+	height:88vw;
+	float:left
+}
+.set-89-view-width-for-height-if-landscape{
+	height:89vw;
+	float:left
+}
+.set-90-view-width-for-height-if-landscape{
+	height:90vw;
+	float:left
+}
+.set-91-view-width-for-height-if-landscape{
+	height:91vw;
+	float:left
+}
+.set-92-view-width-for-height-if-landscape{
+	height:92vw;
+	float:left
+}
+.set-93-view-width-for-height-if-landscape{
+	height:93vw;
+	float:left
+}
+.set-94-view-width-for-height-if-landscape{
+	height:94vw;
+	float:left
+}
+.set-95-view-width-for-height-if-landscape{
+	height:95vw;
+	float:left
+}
+.set-96-view-width-for-height-if-landscape{
+	height:96vw;
+	float:left
+}
+.set-97-view-width-for-height-if-landscape{
+	height:97vw;
+	float:left
+}
+.set-98-view-width-for-height-if-landscape{
+	height:98vw;
+	float:left
+}
+.set-99-view-width-for-height-if-landscape{
+	height:99vw;
+	float:left
+}
+.set-100-view-width-for-height-if-landscape{
+	height:100vw;
+	float:left
+}
+}

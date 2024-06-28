@@ -1,11 +1,17 @@
-
+RELEASE = "0.002"
 IDENT = true
 
 VALID_MEASURES = { "%","vh","vw"}
+MEDIAS = {
+    {text="if-portrait",content="(orientation: portrait)"},
+    {text="if-landscape",content="(orientation: landscape)"},
+}
 
 PERCENT_TEXT = "percent"
 HORIZONTAL_PAGE = "view-width"
 VERTICAL_PAGE ="view-height"
+WIDTH_NAME = "width"
+HEIGHT_NAME = "height"
 SET_NAME ="set"
 FOR_NAME ="for"
 LIB_SEPARATOR = "-"
@@ -21,4 +27,3 @@ REFERENCE_OF = "#ref:"
 LINK_TO_EXAMPLE_TEXT = "link to example"
 REPO_LINK = "https://cdn.jsdelivr.net/gh/OUIsolutions/finalGrid"
 BRNCH="main"
-RELEASE = "0.001"

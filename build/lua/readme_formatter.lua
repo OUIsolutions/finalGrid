@@ -70,8 +70,9 @@ local function  format_references(readme_content)
 
         if inside_reference_of and current_char == '\n' then
         	local formatedreference_of = trim(curente_reference_of)
-        	local link = "["..LINK_TO_EXAMPLE_TEXT.."](/"..formatedreference_of..")"
-        	text = text..link
+        	local link = dtw.concat_path(WEB_SITE,formatedreference_of)
+        	local readme_link = "["..LINK_TO_EXAMPLE_TEXT.."](/"..link..")"
+        	text = text..readme_link
         	inside_reference_of = false
         	curente_reference_of = ""
 

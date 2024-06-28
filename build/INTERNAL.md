@@ -33,6 +33,20 @@ to vertically centralize a div, you can make the same process but from vertical
 
 #codeof:vertical_centralization.html
 
+### Box 
+if you want to make a box system , you will need 3 containers to organize it 
+
+#ref:box.html
+
+#codeof:box.html
+
+for a better understand, lets put some colors in it
+
+
+#ref:box_color.html
+
+#codeof:box_color.html
+
 
 ### Grid Simulation
 Since all elements go from left to right then from top to button then from left to right

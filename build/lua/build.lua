@@ -63,7 +63,7 @@ function Create_css()
     for i=1,media_size do
     	local current_media = MEDIAS[i]
     	text = text.."@media "..current_media.content.."{"..Line_separator
-    	text = text..create_elements_measures(LIB_SEPARATOR..current_media.textg)
+    	text = text..create_elements_measures(LIB_SEPARATOR..current_media.text)
     	text = text..Line_separator.."}"..Line_separator
     end
     return text

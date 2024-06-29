@@ -1,15 +1,21 @@
-RELEASE = "0.002"
+RELEASE = "0.003"
 IDENT = true
+---@type Measure[]
+VALID_MEASURES = {
+    {content ="%",name="percent"},
+   { content="vh",name="view-height"},
+   {content="vw",name="view-width"}
 
-VALID_MEASURES = { "%","vh","vw","rem"}
+}
+
+---@type Media[]
 MEDIAS = {
     {text="if-portrait",content="(orientation: portrait)"},
-    {text="if-landscape",content="(orientation: landscape)"},
+    {text="if-landscape",content="(orientation: landscape)"}
 }
 
 PERCENT_TEXT = "percent"
-HORIZONTAL_PAGE = "view-width"
-VERTICAL_PAGE ="view-height"
+
 WIDTH_NAME = "width"
 HEIGHT_NAME = "height"
 SET_NAME ="set"

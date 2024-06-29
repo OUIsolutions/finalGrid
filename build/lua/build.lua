@@ -2,24 +2,10 @@
 
 
 
----@param measure string
----@return string
-local function generate_text_convension(measure)
-    if measure == "vw" then
-    	return HORIZONTAL_PAGE
-    end
-    if measure == "vh" then
-    	return VERTICAL_PAGE
-    end
-    if measure == "%" then
-        return PERCENT_TEXT
-    end
-    return measure
-end
 
 ---@param for_measure_name string
 ---@param num number
----@param measure string
+---@param measure Measure
 ---@param media string
 ---@return string
 local function create_element(
@@ -28,18 +14,20 @@ local function create_element(
     measure,
     media
 )
-    local text = "."..SET_NAME..LIB_SEPARATOR..num..LIB_SEPARATOR..generate_text_convension(measure)
+
+    local text = "."..SET_NAME..LIB_SEPARATOR..num..LIB_SEPARATOR..measure.name
     text = text..LIB_SEPARATOR..FOR_NAME..LIB_SEPARATOR..for_measure_name
     text = text..media
     text = text.."{"..Line_separator
-    text = text..Line_starter..for_measure_name..":"..num..measure..";"..Line_separator
+    text = text..Line_starter..for_measure_name..":"..num..measure.content..";"..Line_separator
     text = text..Line_starter.."float:left;"..Line_separator
+
     text = text.."}"
     return text
 end
 
 ---@param for_measure_name string
----@param measure string
+---@param measure Measure
 ---@param media string
 ---@return string
 local function create_current_measure(for_measure_name,measure,media)
@@ -75,7 +63,7 @@ function Create_css()
     for i=1,media_size do
     	local current_media = MEDIAS[i]
     	text = text.."@media "..current_media.content.."{"..Line_separator
-    	text = text..create_elements_measures(LIB_SEPARATOR..current_media.text)
+    	text = text..create_elements_measures(LIB_SEPARATOR..current_media.textg)
     	text = text..Line_separator.."}"..Line_separator
     end
     return text

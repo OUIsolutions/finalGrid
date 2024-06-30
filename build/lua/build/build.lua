@@ -6,7 +6,7 @@
 ---@param for_measure_name string
 ---@param num number
 ---@param measure Measure
----@param media string
+---@param media string |nil
 ---@return string
 local function create_element(
     for_measure_name,
@@ -17,7 +17,12 @@ local function create_element(
 
     local text = "."..SET_NAME..LIB_SEPARATOR..num..LIB_SEPARATOR..measure.name
     text = text..LIB_SEPARATOR..FOR_NAME..LIB_SEPARATOR..for_measure_name
-    text = text..LIB_SEPARATOR..media.."{"..Line_separator
+
+    if media then
+        text = text..LIB_SEPARATOR..media
+    end
+
+    text =text.."{"..Line_separator
     text = text..Line_starter..for_measure_name..":"..num..measure.content..";"..Line_separator
     text = text..Line_starter.."float:left;"..Line_separator
 
@@ -28,20 +33,27 @@ end
 
 ---@param for_measure_name string
 ---@param measure Measure
----@param media string
+---@param media string  | nil
 ---@return string
 local function create_current_measure(for_measure_name,measure,media)
 	local text = ""
-	for i=1,100 do
-		text = text..Line_separator..create_element(for_measure_name,i,measure,media)
+	for i=measure.start,measure.end_num do
+		text = text..Line_separator..create_element(for_measure_name,i * measure.multiplier,measure,media)
 	end
-
+    if measure.specials == nil then
+    	return text
+    end
+    local specials_size = get_table_size(measure.specials)
+    for i=1,specials_size do
+    	local current  = measure.specials[i]
+         text = text..Line_separator..create_element(for_measure_name,current ,measure,media)
+    end
 	return text
 end
 
 
 
----@param media string
+---@param media string | nil
 ---@return string
 local function create_elements_measures(media)
 	local text = ""
@@ -62,7 +74,7 @@ function Create_css()
     local media_size = get_table_size(MEDIAS)
     local text = ""
     --create empty for all
-    text  = text..create_elements_measures("")
+    text  = text..create_elements_measures()
     for i=1,media_size do
     	local current_media = MEDIAS[i]
     	text = text.."@media "..current_media.content.."{"..Line_separator

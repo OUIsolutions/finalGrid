@@ -2,11 +2,38 @@ RELEASE = "0.003"
 IDENT = true
 ---@type Measure[]
 VALID_MEASURES = {
-   {content ="%",name="percent"},
-   {content="vh",name="view-height"},
-   {content="vw",name="view-width"},
-   {content="rem",name="rem"}
+   {
+       content ="%",
+       name="percent",
+       start=1,
+       end_num=20,
+       multiplier=5,
+       specials={33}
+   },
+   {
+       content="vh",
+       name="view-height",
+       start=1,
+       end_num=20,
+       multiplier=5,
+       specials={33}
+   },
+   {
+        content="vw",name="view-width",
+        start=1,
+        end_num=20,
+        multiplier=5,
+        specials={33}
+   },
 
+   {
+       content="rem",
+       name="rem",
+       start=1,
+       end_num=20,
+       multiplier=5,
+       specials={33}
+   }
 }
 
 ---@type Media[]

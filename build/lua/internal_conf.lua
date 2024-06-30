@@ -8,7 +8,7 @@ VALID_MEASURES = {
        start=1,
        end_num=20,
        multiplier=5,
-       specials={33}
+        specials={1,2,3,4,33}
    },
    {
        content="vh",
@@ -16,14 +16,14 @@ VALID_MEASURES = {
        start=1,
        end_num=20,
        multiplier=5,
-       specials={33}
+        specials={1,2,3,4,33}
    },
    {
         content="vw",name="view-width",
         start=1,
         end_num=20,
         multiplier=5,
-        specials={33}
+        specials={1,2,3,4,33}
    },
 
    {
@@ -32,7 +32,7 @@ VALID_MEASURES = {
        start=1,
        end_num=20,
        multiplier=5,
-       specials={33}
+        specials={1,2,3,4,33}
    }
 }
 

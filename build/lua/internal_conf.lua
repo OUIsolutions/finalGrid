@@ -2,9 +2,10 @@ RELEASE = "0.003"
 IDENT = true
 ---@type Measure[]
 VALID_MEASURES = {
-    {content ="%",name="percent"},
-   { content="vh",name="view-height"},
-   {content="vw",name="view-width"}
+   {content ="%",name="percent"},
+   {content="vh",name="view-height"},
+   {content="vw",name="view-width"},
+   {content="rem",name="rem"}
 
 }
 
@@ -16,6 +17,7 @@ MEDIAS = {
 
 PERCENT_TEXT = "percent"
 
+SUCTRACT = "minus"
 WIDTH_NAME = "width"
 HEIGHT_NAME = "height"
 SET_NAME ="set"

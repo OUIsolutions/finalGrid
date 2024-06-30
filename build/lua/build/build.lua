@@ -57,7 +57,15 @@ end
 ---@return string
 local function create_elements_measures(media)
 	local text = ""
-    text = Generate_all_minus_percent(media)
+
+    if media then
+    	text = text.."."..SET_NAME..LIB_SEPARATOR..HIDE_NAME..LIB_SEPARATOR..media.."{"..Line_separator
+    	text = text..Line_starter.."display:none;"..Line_separator
+    	text = text.."}"..Line_starter
+
+    end
+
+    text = text..Generate_all_minus_percent(media)
 
 	for i=1,Valid_measures_size do
 		local measure = VALID_MEASURES[i]

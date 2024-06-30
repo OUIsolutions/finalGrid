@@ -35,7 +35,7 @@ VALID_MEASURES = {
         specials={1,2,3,4,33}
    }
 }
-
+HIDE_NAME ="hide"
 ---@type Media[]
 MEDIAS = {
     {text="if-portrait",content="(orientation: portrait)"},
